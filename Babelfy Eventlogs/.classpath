@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy-online-API-1.0/babelfy-online-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/babelnet-api-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy-online-API-1.0/lib/babelfy-commons-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy-online-API-1.0/lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy-online-API-1.0/lib/commons-configuration-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy-online-API-1.0/lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy-online-API-1.0/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy-online-API-1.0/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy-online-API-1.0/lib/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy-online-API-1.0/lib/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy-online-API-1.0/lib/httpmime-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Babelfy-online-API-1.0/lib/jltutils-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Java Apis/javax.json-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Java Apis/javax.json-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Java Apis/javax.json-api-1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/commons-beanutils-core-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/commons-configuration-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/httpcore-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/icu4j-56.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/jltutils-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/jwi-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/log4j-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/log4j-core-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/lucene-core-4.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/BabelNet-API-3.7/lib/lucene-queryparser-4.9.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
