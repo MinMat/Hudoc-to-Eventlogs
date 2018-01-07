@@ -48,34 +48,11 @@ public class Main {
         JsonArray events = AddConcepts(caseJson.getJsonArray("Events"));
         newCaseBuilder.add("Events", events);
         
-        saveJson(newCaseBuilder.build(), outputFile);
+        JsonUtil.saveJson(newCaseBuilder.build(), outputFile);
         
         reader.close();		
 	}
-	
-	private static void saveJson(JsonObject json, String file) throws IOException{
-        FileWriter writer = new FileWriter(file);
-        
-        Map<String, Object> properties = new HashMap<>(1);
-        properties.put(JsonGenerator.PRETTY_PRINTING, true);
-
-        JsonWriterFactory writerFactory = Json.createWriterFactory(properties);
-        JsonWriter jsonWriter = writerFactory.createWriter(writer);
-        
-        jsonWriter.writeObject(json);
-        jsonWriter.close();		
-	}
-	
-	private static JsonObjectBuilder jsonObjectToBuilder(JsonObject jo) {
-	    JsonObjectBuilder job = Json.createObjectBuilder();
-
-	    for (Entry<String, JsonValue> entry : jo.entrySet()) {
-	        job.add(entry.getKey(), entry.getValue());
-	    }
-
-	    return job;
-	}
-	
+		
 	private static JsonArray ConceptsToJsonArray(List<BabelConcept> concepts) {
     	JsonArrayBuilder conceptsArrBuilder = Json.createArrayBuilder();
     	
@@ -107,7 +84,7 @@ public class Main {
         	System.out.println("Babelfying: " + cText.Text());
         	bf.discoverConcepts(cText);
         	
-        	JsonObjectBuilder newEventBuilder = jsonObjectToBuilder(eventObj);
+        	JsonObjectBuilder newEventBuilder = JsonUtil.jsonObjectToBuilder(eventObj);
         	newEventBuilder.add("Concepts", ConceptsToJsonArray(cText.Concepts()));
         	newEventArrayBuilder.add(newEventBuilder);
         }
