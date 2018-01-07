@@ -4,7 +4,7 @@ public class BabelConcept{
 
 	private static final long serialVersionUID = -8193421919124250631L;
 
-	public BabelConcept(String Id, String name, String pos, float coherenceScore, float relevanceScore, 
+	public BabelConcept(String Id, String name, String pos, double coherenceScore, double relevanceScore, 
 			boolean namedEnt, boolean keyConcept){
 		m_Id = Id;
 		m_name = name;
@@ -28,11 +28,11 @@ public class BabelConcept{
 		return m_pos;
 	}
 	
-	public float RelevanceScore() {
+	public double RelevanceScore() {
 		return m_relevanceScore;
 	}
 	
-	public float CoherenceScore() {
+	public double CoherenceScore() {
 		return m_coherenceScore;
 	}
 	
@@ -48,8 +48,8 @@ public class BabelConcept{
 	private String m_name;
 	private String m_pos;
 	private boolean m_namedEntity;
-	private float m_coherenceScore;
-	private float m_relevanceScore;
+	private double m_coherenceScore;
+	private double m_relevanceScore;
 	private boolean m_keyConcept;
 	
 

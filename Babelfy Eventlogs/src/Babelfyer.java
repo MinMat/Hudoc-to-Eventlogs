@@ -1,6 +1,16 @@
+import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
+
+import javax.json.Json;
+import javax.json.JsonArray;
+import javax.json.JsonArrayBuilder;
+import javax.json.JsonObject;
+import javax.json.JsonObjectBuilder;
+import javax.json.JsonReader;
+import javax.json.JsonValue;
 
 import it.uniroma1.lcl.babelfy.commons.BabelfyParameters;
 import it.uniroma1.lcl.babelfy.commons.BabelfyParameters.*;
@@ -16,6 +26,7 @@ public class Babelfyer {
 	
 	private BabelfyParameters m_babelfyParams;
 	private BabelNet m_babelNet;
+	private Babelfy m_bfy;
 
 	public Babelfyer(){
 		m_babelfyParams = new BabelfyParameters();
@@ -47,6 +58,8 @@ public class Babelfyer {
 		m_babelfyParams.setMCS(MCS.ON);
 		
 		m_babelNet = BabelNet.getInstance();
+
+		m_bfy = new Babelfy(m_babelfyParams);
 	}
 	
 	/*
@@ -59,9 +72,7 @@ public class Babelfyer {
 		if(inputText.isEmpty()) return;
 		if(text.Concepts().size() > 0) return;
 		
-		Babelfy bfy = new Babelfy(m_babelfyParams);
-		
-		List<SemanticAnnotation> bfyAnnotations = bfy.babelfy(inputText, it.uniroma1.lcl.jlt.util.Language.EN);
+		List<SemanticAnnotation> bfyAnnotations = m_bfy.babelfy(inputText, it.uniroma1.lcl.jlt.util.Language.EN);
 		
 		ArrayList<BabelConcept> concepts = new ArrayList<BabelConcept>();
 
@@ -79,6 +90,47 @@ public class Babelfyer {
 		}
 		
 		text.SetConcepts(concepts);		
+	}
+	
+	/*
+	 * Takes a Json-file as input that contains a case and events (whole sentences detected by aws comprehend)
+	 * Runs the sentences through babelfy and 
+	 * creates a json-file as output that contains all detected concepts for each event
+	 */
+	public void BabelfyEventlog(String inputFile, String outputFile) throws IOException, InvalidBabelSynsetIDException{
+        JsonObject caseJson = JsonUtil.loadJson(inputFile);
+        
+        //Build a new json object for events with added concepts
+        JsonObjectBuilder newCaseBuilder = Json.createObjectBuilder();
 
+        newCaseBuilder.add("CaseName", caseJson.getString("CaseName"));
+        newCaseBuilder.add("CaseText", caseJson.getString("CaseText"));
+
+        JsonArray events = AddConcepts(caseJson.getJsonArray("Events"));
+        newCaseBuilder.add("Events", events);
+        
+        JsonUtil.saveJson(newCaseBuilder.build(), outputFile);
+        		
+	}
+		
+	/*
+	 * Babelfys the sentences of each event and adds the resulting concepts to each event-object
+	 */
+	private JsonArray AddConcepts(JsonArray events) throws IOException, InvalidBabelSynsetIDException{
+		JsonArrayBuilder newEventArrayBuilder = Json.createArrayBuilder();
+
+        for(JsonValue event : events){
+        	JsonObject eventObj = ((JsonObject) event);
+        	String sentence = eventObj.getString("Sentence");
+        	ConceptText cText = new ConceptText(sentence);
+        	
+        	System.out.println("Babelfying: " + cText.Text());
+        	discoverConcepts(cText);
+        	
+        	JsonObjectBuilder newEventBuilder = JsonUtil.jsonObjectToBuilder(eventObj);
+        	newEventBuilder.add("Concepts", JsonUtil.ConceptsToJsonArray(cText.Concepts()));
+        	newEventArrayBuilder.add(newEventBuilder);
+        }
+        return newEventArrayBuilder.build();
 	}
 }

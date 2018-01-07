@@ -1,12 +1,19 @@
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
 import javax.json.Json;
+import javax.json.JsonArray;
+import javax.json.JsonArrayBuilder;
 import javax.json.JsonObject;
 import javax.json.JsonObjectBuilder;
+import javax.json.JsonReader;
 import javax.json.JsonValue;
 import javax.json.JsonWriter;
 import javax.json.JsonWriterFactory;
@@ -36,5 +43,37 @@ public class JsonUtil {
 
 	    return job;
 	}
+	
+	public static JsonArray ConceptsToJsonArray(List<BabelConcept> concepts) {
+    	JsonArrayBuilder conceptsArrBuilder = Json.createArrayBuilder();
+    	
+    	for(BabelConcept concept : concepts){
+    		JsonObjectBuilder objBuilder = Json.createObjectBuilder();
+        	
+    		objBuilder.add("Synsetid", concept.Id());
+    		objBuilder.add("Name", concept.Name());
+    		objBuilder.add("Part of speech", concept.PartOfSpeech());
+    		objBuilder.add("Keyconcept", concept.KeyConcept());
+    		objBuilder.add("Named entity", concept.NamedEntity());
+    		objBuilder.add("Relevancescore", concept.RelevanceScore());
+    		objBuilder.add("Coherencescore", concept.CoherenceScore());
 
+    		conceptsArrBuilder.add(objBuilder);
+    	}
+    	
+    	return conceptsArrBuilder.build();
+	}
+
+	/*
+	 * Loads the json object in a file
+	 */
+	public static JsonObject loadJson(String file) throws FileNotFoundException{
+        InputStream fis = new FileInputStream(file);
+        JsonReader reader = Json.createReader(fis);
+        JsonObject obj = reader.readObject();
+        reader.close();
+        return obj;
+	}
+	
+	
 }
