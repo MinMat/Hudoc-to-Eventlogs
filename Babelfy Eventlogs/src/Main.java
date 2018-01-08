@@ -43,7 +43,7 @@ public class Main {
 		cases.add(case9);
 		cases.add(case10);
 		
-		Map<BabelConcept, Double> conceptFreqs = Statistics.ConceptFrequencies(cases, "NOUN");
+		Map<BabelConcept, Double> conceptFreqs = Statistics.ConceptEventFrequencies(cases, "NOUN");
 		int counter = 0;
 		for(Map.Entry<BabelConcept, Double> conceptFreq : Statistics.entriesSortedByValues(conceptFreqs)){
 			System.out.println(conceptFreq.getKey().Id() + " - " + conceptFreq.getKey().Name() + ": " + conceptFreq.getValue());
