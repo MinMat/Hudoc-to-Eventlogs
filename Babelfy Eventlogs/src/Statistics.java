@@ -10,22 +10,22 @@ public class Statistics {
 	/*
 	 * Computes the frequencies of concepts of a specific part of speech within a set of cases
 	 * set parameter pos to null to get frequencies of all concepts
-	 * returns a sorted map
 	 */
 	public static Map<BabelConcept, Double> ConceptFrequencies(Set<Case> cases, String pos){
-		//CHANGE TO CONCEPTID
-		Map<BabelConcept, Integer> conceptCount = new HashMap<BabelConcept, Integer>();
+		Map<String, Integer> conceptCount = new HashMap<String, Integer>();
+		Map<String, String> idToName = new HashMap<String, String>();
 		
 		for(Case aCase : cases){
 			for(Event event : aCase.Events()){
 				for(BabelConcept concept : event.Concepts()){
 					if(concept.PartOfSpeech().equals(pos) || pos == null){
-						if(conceptCount.containsKey(concept)){
-							Integer count = conceptCount.get(concept);
+						if(conceptCount.containsKey(concept.Id())){
+							Integer count = conceptCount.get(concept.Id());
 							count++;
-							conceptCount.put(concept, count);
+							conceptCount.put(concept.Id(), count);
 						} else {
-							conceptCount.put(concept, 1);
+							conceptCount.put(concept.Id(), 1);
+							idToName.put(concept.Id(), concept.Name());
 						}	
 					}
 				}
@@ -34,19 +34,20 @@ public class Statistics {
 		
 		int totalConcepts = 0;
 		for(Integer count : conceptCount.values()) totalConcepts += count;
-		System.out.println(conceptCount.size());
-		System.out.println(totalConcepts);
 		
 		Map<BabelConcept, Double> conceptFreqs = new HashMap<BabelConcept, Double>();
 		
 		int counter = 0;
-		for(Map.Entry<BabelConcept, Integer> conceptEntry : entriesSortedByValues(conceptCount)){
-			if(counter < 10){
-			System.out.println(conceptEntry.getKey().Id() + " - " + conceptEntry.getKey().Name() + ": " + conceptEntry.getValue());
-			counter++;
-			}
-		
-			conceptFreqs.put(conceptEntry.getKey(), conceptEntry.getValue().doubleValue() / totalConcepts);
+		for(Map.Entry<String, Integer> conceptEntry : conceptCount.entrySet()){
+			BabelConcept concept = new BabelConcept(
+					conceptEntry.getKey(),
+					idToName.get(conceptEntry.getKey()),
+					"",
+					0.0,
+					0.0,
+					false,
+					false);
+			conceptFreqs.put(concept, conceptEntry.getValue().doubleValue() / totalConcepts);
 		}
 		
 		return conceptFreqs;

@@ -20,13 +20,32 @@ public class Main {
 					"Babelfyed Events/" + "babelfy-" + acase + ".json");
 		}*/
 		
-		Case testCase = Case.LoadCaseJson("Babelfyed Events/babelfy-CASE OF D.L. v. BULGARIA.json");
-		Set<Case> cases = new HashSet<Case>();
-		cases.add(testCase);
+		Case case1 = Case.LoadCaseJson("Babelfyed Events/babelfy-CASE OF D.L. v. BULGARIA.json");
+		Case case2 = Case.LoadCaseJson("Babelfyed Events/babelfy-CASE OF CARVALHO PINTO DE SOUSA MORAIS v. PORTUGAL.json");
+		Case case3 = Case.LoadCaseJson("Babelfyed Events/babelfy-CASE OF G_ZELYURTLU AND OTHERS v. CYPRUS AND TURKEY.json");
+		Case case4 = Case.LoadCaseJson("Babelfyed Events/babelfy-CASE OF GARIB v. THE NETHERLANDS.json");
+		Case case5 = Case.LoadCaseJson("Babelfyed Events/babelfy-CASE OF K_ROLY NAGY v. HUNGARY.json");
+		Case case6 = Case.LoadCaseJson("Babelfyed Events/babelfy-CASE OF LOPES DE SOUSA FERNANDES v. PORTUGAL.json");
+		Case case7 = Case.LoadCaseJson("Babelfyed Events/babelfy-CASE OF M v. THE NETHERLANDS.json");
+		Case case8 = Case.LoadCaseJson("Babelfyed Events/babelfy-CASE OF NAGMETOV v. RUSSIA.json");
+		Case case9 = Case.LoadCaseJson("Babelfyed Events/babelfy-CASE OF REGNER v. THE CZECH REPUBLIC.json");
+		Case case10 = Case.LoadCaseJson("Babelfyed Events/babelfy-CASE OF WENNER v. GERMANY.json");
 		
-		Map<BabelConcept, Double> conceptFreqs = Statistics.ConceptFrequencies(cases, "VERB");
+		Set<Case> cases = new HashSet<Case>();
+		cases.add(case1);
+		cases.add(case2);
+		cases.add(case3);
+		cases.add(case4);
+		cases.add(case5);
+		cases.add(case6);
+		cases.add(case7);
+		cases.add(case8);
+		cases.add(case9);
+		cases.add(case10);
+		
+		Map<BabelConcept, Double> conceptFreqs = Statistics.ConceptFrequencies(cases, "NOUN");
 		int counter = 0;
-		for(Map.Entry<BabelConcept, Double> conceptFreq : conceptFreqs.entrySet()){
+		for(Map.Entry<BabelConcept, Double> conceptFreq : Statistics.entriesSortedByValues(conceptFreqs)){
 			System.out.println(conceptFreq.getKey().Id() + " - " + conceptFreq.getKey().Name() + ": " + conceptFreq.getValue());
 			counter++;
 			if(counter > 10) break;
