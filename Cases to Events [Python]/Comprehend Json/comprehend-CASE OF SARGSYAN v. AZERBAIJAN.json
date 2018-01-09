@@ -1,0 +1,377 @@
+{
+    "CaseName": "CASE OF SARGSYAN v. AZERBAIJAN",
+    "CaseText": "E\n  1.\u00a0\u00a0The case originated in an application (no. 40167/06) against the Republic of Azerbaijan lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by an Armenian national, Mr Minas Sargsyan (\u201cthe applicant\u201d), on 11 August 2006. The applicant died in 2009. Subsequently, the application was pursued by his widow, Ms Lena Sargsyan, born in 1936, and by his son Mr Vladimir Sargsyan and his daughters Ms Tsovinar and Nina\u00a0Sargsyan, born in 1957, 1959 and 1966, respectively. Ms\u00a0Lena\u00a0Sargsyan died in 2014. Mr Vladimir Sargsyan and Ms Tsovinar Sargsyan pursued the proceedings on the applicant\u2019s behalf.\n  2.\u00a0\u00a0The applicant, who had been granted legal aid, was represented by Ms\u00a0N. Gasparyan and Ms K. Ohanyan, lawyers practising in Yerevan, and by Mr Philip Leach, director of the European Human Rights Advocacy Centre. The Azerbaijani Government (\u201cthe Government\u201d) were represented by their Agent Mr \u00c7. Asgarov.\n  3.\u00a0\u00a0In a judgment delivered on 16 June 2015 (\u201cthe principal judgment\u201d), the Grand Chamber dismissed the respondent Government\u2019s preliminary objections of non-exhaustion of domestic remedies, lack of jurisdiction and responsibility, lack of the Court\u2019s competence ratione temporis and lack of the applicant\u2019s victim status in respect of his complaints relating to his relatives\u2019 graves. The Grand Chamber held that there had been a continuing violation of Article 1 of Protocol No. 1. It also found continuing violations of Articles 8 and Article 13 of the Convention and held that no separate issue arose under Article 14 of the Convention. In particular, in respect of Article 1 of Protocol No. 1, the Court found as regards the period falling within its temporal jurisdiction, that is, from 15 April 2002, that although the impossibility for the applicant to have access to his property in Gulistan was justified by safety considerations, the respondent Government\u2019s failure to take any alternative measures in order to restore his property rights or to provide him with compensation for the loss of their enjoyment placed a disproportionate burden on him (Sargsyan v. Azerbaijan [GC], no.\u00a040167/06, ECHR 2015).\n  4.\u00a0\u00a0Under Article 41 of the Convention the applicant sought just satisfaction in respect of pecuniary and non-pecuniary damage resulting from the violations found in the present case, as well as reimbursement of the costs and expenses incurred in the proceedings before the Court.\n  5.\u00a0\u00a0Since the question of the application of Article 41 of the Convention was not ready for decision, the Court reserved it and invited the Government and the applicant to submit, within twelve months, their written observations on that issue and, in particular, to notify the Court of any agreement they might reach (\u00a7 283 and point 9 of the operative provisions of the principal judgment).\n  6.\u00a0\u00a0The parties having failed to reach an agreement, the applicant submitted his observations on 16 June and 13 December 2016 and the Government on 16\u00a0September and 24 October 2016.\n  7.\u00a0\u00a0The composition of the Grand Chamber was determined according to the provisions of Article 26 \u00a7\u00a7 4 and 5 and Rule 24 of the Rules of Court.",
+    "Entities": [
+        {
+            "Score": 0.9051448106765747,
+            "Type": "OTHER",
+            "Text": "40167/06",
+            "BeginOffset": 51,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8502731919288635,
+            "Type": "ORGANIZATION",
+            "Text": "Republic of Azerbaijan",
+            "BeginOffset": 73,
+            "EndOffset": 95
+        },
+        {
+            "Score": 0.8733253479003906,
+            "Type": "OTHER",
+            "Text": "Article 34",
+            "BeginOffset": 124,
+            "EndOffset": 134
+        },
+        {
+            "Score": 0.9442870616912842,
+            "Type": "TITLE",
+            "Text": "Convention for the Protection of Human Rights and Fundamental Freedoms",
+            "BeginOffset": 142,
+            "EndOffset": 212
+        },
+        {
+            "Score": 0.6355747580528259,
+            "Type": "OTHER",
+            "Text": "Armenian",
+            "BeginOffset": 238,
+            "EndOffset": 246
+        },
+        {
+            "Score": 0.9964643716812134,
+            "Type": "PERSON",
+            "Text": "Minas Sargsyan",
+            "BeginOffset": 260,
+            "EndOffset": 274
+        },
+        {
+            "Score": 0.9997473955154419,
+            "Type": "DATE",
+            "Text": "11 August 2006",
+            "BeginOffset": 297,
+            "EndOffset": 311
+        },
+        {
+            "Score": 0.9976663589477539,
+            "Type": "DATE",
+            "Text": "2009",
+            "BeginOffset": 335,
+            "EndOffset": 339
+        },
+        {
+            "Score": 0.999951183795929,
+            "Type": "PERSON",
+            "Text": "Lena Sargsyan",
+            "BeginOffset": 400,
+            "EndOffset": 413
+        },
+        {
+            "Score": 0.9992371797561646,
+            "Type": "DATE",
+            "Text": "1936",
+            "BeginOffset": 423,
+            "EndOffset": 427
+        },
+        {
+            "Score": 0.9999157190322876,
+            "Type": "PERSON",
+            "Text": "Vladimir Sargsyan",
+            "BeginOffset": 447,
+            "EndOffset": 464
+        },
+        {
+            "Score": 0.8481535911560059,
+            "Type": "PERSON",
+            "Text": "Ms Tsovinar",
+            "BeginOffset": 483,
+            "EndOffset": 494
+        },
+        {
+            "Score": 0.9989593625068665,
+            "Type": "PERSON",
+            "Text": "Nina\u00a0Sargsyan",
+            "BeginOffset": 499,
+            "EndOffset": 512
+        },
+        {
+            "Score": 0.9991055130958557,
+            "Type": "DATE",
+            "Text": "1957",
+            "BeginOffset": 522,
+            "EndOffset": 526
+        },
+        {
+            "Score": 0.9996750354766846,
+            "Type": "DATE",
+            "Text": "1959",
+            "BeginOffset": 528,
+            "EndOffset": 532
+        },
+        {
+            "Score": 0.9990124702453613,
+            "Type": "DATE",
+            "Text": "1966",
+            "BeginOffset": 537,
+            "EndOffset": 541
+        },
+        {
+            "Score": 0.999951958656311,
+            "Type": "PERSON",
+            "Text": "Lena\u00a0Sargsyan",
+            "BeginOffset": 560,
+            "EndOffset": 573
+        },
+        {
+            "Score": 0.9989847540855408,
+            "Type": "DATE",
+            "Text": "2014",
+            "BeginOffset": 582,
+            "EndOffset": 586
+        },
+        {
+            "Score": 0.9993029236793518,
+            "Type": "PERSON",
+            "Text": "Vladimir Sargsyan",
+            "BeginOffset": 591,
+            "EndOffset": 608
+        },
+        {
+            "Score": 0.9982863664627075,
+            "Type": "PERSON",
+            "Text": "Tsovinar Sargsyan",
+            "BeginOffset": 616,
+            "EndOffset": 633
+        },
+        {
+            "Score": 0.9578333497047424,
+            "Type": "PERSON",
+            "Text": "Ms\u00a0N. Gasparyan",
+            "BeginOffset": 757,
+            "EndOffset": 772
+        },
+        {
+            "Score": 0.9728075861930847,
+            "Type": "PERSON",
+            "Text": "Ms K. Ohanyan",
+            "BeginOffset": 777,
+            "EndOffset": 790
+        },
+        {
+            "Score": 0.9815603494644165,
+            "Type": "LOCATION",
+            "Text": "Yerevan",
+            "BeginOffset": 814,
+            "EndOffset": 821
+        },
+        {
+            "Score": 0.99952632188797,
+            "Type": "PERSON",
+            "Text": "Philip Leach",
+            "BeginOffset": 833,
+            "EndOffset": 845
+        },
+        {
+            "Score": 0.9974559545516968,
+            "Type": "ORGANIZATION",
+            "Text": "European Human Rights Advocacy Centre",
+            "BeginOffset": 863,
+            "EndOffset": 900
+        },
+        {
+            "Score": 0.8634340763092041,
+            "Type": "ORGANIZATION",
+            "Text": "Azerbaijani Government",
+            "BeginOffset": 906,
+            "EndOffset": 928
+        },
+        {
+            "Score": 0.9999882578849792,
+            "Type": "DATE",
+            "Text": "16 June 2015",
+            "BeginOffset": 1028,
+            "EndOffset": 1040
+        },
+        {
+            "Score": 0.9992603659629822,
+            "Type": "ORGANIZATION",
+            "Text": "Grand Chamber",
+            "BeginOffset": 1073,
+            "EndOffset": 1086
+        },
+        {
+            "Score": 0.9529215693473816,
+            "Type": "ORGANIZATION",
+            "Text": "Grand Chamber",
+            "BeginOffset": 1387,
+            "EndOffset": 1400
+        },
+        {
+            "Score": 0.9999532103538513,
+            "Type": "OTHER",
+            "Text": "Article 1",
+            "BeginOffset": 1452,
+            "EndOffset": 1461
+        },
+        {
+            "Score": 0.8049722909927368,
+            "Type": "OTHER",
+            "Text": "Protocol No. 1",
+            "BeginOffset": 1465,
+            "EndOffset": 1479
+        },
+        {
+            "Score": 0.9996750950813293,
+            "Type": "OTHER",
+            "Text": "Articles 8",
+            "BeginOffset": 1520,
+            "EndOffset": 1530
+        },
+        {
+            "Score": 0.9718896150588989,
+            "Type": "OTHER",
+            "Text": "Article 13",
+            "BeginOffset": 1535,
+            "EndOffset": 1545
+        },
+        {
+            "Score": 0.9847207069396973,
+            "Type": "OTHER",
+            "Text": "Article 14",
+            "BeginOffset": 1608,
+            "EndOffset": 1618
+        },
+        {
+            "Score": 0.9999393820762634,
+            "Type": "OTHER",
+            "Text": "Article 1",
+            "BeginOffset": 1667,
+            "EndOffset": 1676
+        },
+        {
+            "Score": 0.8772072196006775,
+            "Type": "OTHER",
+            "Text": "Protocol No. 1",
+            "BeginOffset": 1680,
+            "EndOffset": 1694
+        },
+        {
+            "Score": 0.9992987513542175,
+            "Type": "DATE",
+            "Text": "15 April 2002",
+            "BeginOffset": 1790,
+            "EndOffset": 1803
+        },
+        {
+            "Score": 0.9999984502792358,
+            "Type": "LOCATION",
+            "Text": "Gulistan",
+            "BeginOffset": 1889,
+            "EndOffset": 1897
+        },
+        {
+            "Score": 0.8974199891090393,
+            "Type": "TITLE",
+            "Text": "Sargsyan v. Azerbaijan [GC], no.\u00a040167/06, ECHR 2015).\n  4.",
+            "BeginOffset": 2156,
+            "EndOffset": 2215
+        },
+        {
+            "Score": 0.7927507758140564,
+            "Type": "TITLE",
+            "Text": "Article 41 of the Convention",
+            "BeginOffset": 2223,
+            "EndOffset": 2251
+        },
+        {
+            "Score": 0.8694594502449036,
+            "Type": "TITLE",
+            "Text": "Article 41 of the Convention",
+            "BeginOffset": 2541,
+            "EndOffset": 2569
+        },
+        {
+            "Score": 0.9486350417137146,
+            "Type": "QUANTITY",
+            "Text": "twelve months",
+            "BeginOffset": 2683,
+            "EndOffset": 2696
+        },
+        {
+            "Score": 0.6432402729988098,
+            "Type": "QUANTITY",
+            "Text": "283",
+            "BeginOffset": 2816,
+            "EndOffset": 2819
+        },
+        {
+            "Score": 0.9308545589447021,
+            "Type": "QUANTITY",
+            "Text": "9",
+            "BeginOffset": 2830,
+            "EndOffset": 2831
+        },
+        {
+            "Score": 0.9949527978897095,
+            "Type": "DATE",
+            "Text": "16 June",
+            "BeginOffset": 2987,
+            "EndOffset": 2994
+        },
+        {
+            "Score": 0.9995272755622864,
+            "Type": "DATE",
+            "Text": "13 December 2016",
+            "BeginOffset": 2999,
+            "EndOffset": 3015
+        },
+        {
+            "Score": 0.9937960505485535,
+            "Type": "DATE",
+            "Text": "16\u00a0September",
+            "BeginOffset": 3038,
+            "EndOffset": 3050
+        },
+        {
+            "Score": 0.9488851428031921,
+            "Type": "DATE",
+            "Text": "24 October 2016",
+            "BeginOffset": 3055,
+            "EndOffset": 3070
+        },
+        {
+            "Score": 0.5998108983039856,
+            "Type": "ORGANIZATION",
+            "Text": "Grand Chamber",
+            "BeginOffset": 3101,
+            "EndOffset": 3114
+        },
+        {
+            "Score": 0.710797131061554,
+            "Type": "OTHER",
+            "Text": "Article 26",
+            "BeginOffset": 3161,
+            "EndOffset": 3171
+        },
+        {
+            "Score": 0.5860534310340881,
+            "Type": "OTHER",
+            "Text": "4",
+            "BeginOffset": 3175,
+            "EndOffset": 3176
+        },
+        {
+            "Score": 0.9948335886001587,
+            "Type": "OTHER",
+            "Text": "5",
+            "BeginOffset": 3181,
+            "EndOffset": 3182
+        },
+        {
+            "Score": 0.9906236529350281,
+            "Type": "OTHER",
+            "Text": "Rule 24",
+            "BeginOffset": 3187,
+            "EndOffset": 3194
+        }
+    ]
+}

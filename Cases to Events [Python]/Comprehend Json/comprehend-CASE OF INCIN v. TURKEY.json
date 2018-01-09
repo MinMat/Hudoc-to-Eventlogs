@@ -1,0 +1,531 @@
+{
+    "CaseName": "CASE OF INCIN v. TURKEY",
+    "CaseText": "E\n  1.\u00a0\u00a0The case originated in an application (no. 3534/06) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by fifteen Turkish nationals (\u201cthe applicants\u201d) on 27\u00a0December 2005.\n  2.\u00a0\u00a0The applicants, whose names, dates of birth and places of residence are set out in the attached table, were represented by Mr Cemal Demir, a lawyer practising in Van. The Turkish Government (\u201cthe Government\u201d) were represented by their Agent.\n  3.\u00a0\u00a0The applicants alleged, in particular, that the investigation and the trial concerning the killing of their relative in June 1995 had been in breach of the procedural obligation inherent in Article 2 of the Convention.\n  4.\u00a0\u00a0On 10 November 2015 the complaint under Article\u00a02 of the Convention concerning the effectiveness of the investigation and trial conducted after 22 March 2005 was communicated to the Government and the remainder of the application was declared inadmissible.\nTHE FACTS\nTHE CIRCUMSTANCES OF THE CASE\n  5.\u00a0\u00a0The first applicant, Habibe ?ncin, is the wife of Kerim ?ncin; the second to seventh applicants are his children; the eighth applicant is his mother and the remaining seven applicants are the siblings of Kerim ?ncin.\n  6.\u00a0\u00a0On 22 March 2005 the applicants Halima ?ncin and Haz?m ?ncin, with the assistance of their lawyer, submitted a petition to the Hakkari prosecutor. In their petition the two applicants alleged that after severe military clashes had taken place in the vicinity of their village, in 1994 they and their family members had left Turkey and moved to live with their relatives in Iraq. In June 1995 Kerim ?ncin had gone back to their village in Turkey to collect a sum of money he was owed. While he was having dinner in the village headman\u2019s house, village guards had arrived and taken him to the nearby Ge\u00e7imli military station. While at the military station Kerim ?ncin had been questioned and subjected to ill-treatment. After having detained him at the station for a week, the soldiers had taken him back to the village, where they had shot him and buried him.\n  7.\u00a0\u00a0In the petition the lawyer representing the applicants stated that the applicant Haz?m ?ncin had recently returned to Turkey from Iraq and wanted to lodge an official complaint concerning the killing of his father. In their petition the two applicants also gave the prosecutor the names of a number of people who they alleged had witnessed the incident in question. They asked the prosecutor to carry out an investigation, to identify and question all the eyewitnesses, to exhume the body of Kerim ?ncin and to find and punish those responsible for the killing.\n  8.\u00a0\u00a0The prosecutor started an investigation into the applicants\u2019 allegations immediately. In the course of the investigation, between 2005 and 2006 the prosecutor questioned the applicants and other members of their family. During the same period the prosecutor also identified, summoned and questioned a large number of witnesses and members of the military who had lived or worked in the region at the time of the events but who, in the years that had elapsed since the killing, had moved to different parts of the country. A number of witnesses told the prosecutor that they had seen Kerim ?ncin being taken away from the village by the soldiers and added that shortly afterwards a large-scale military operation had been conducted in the area and they had heard that Kerim ?ncin had been killed in the course of that operation.\n  9.\u00a0\u00a0Some members of the military forces told the prosecutor during their questioning that they had no recollection of the events while others stated that no such incident had taken place.\n  10.\u00a0\u00a0As a result of the questioning the prosecutor found it established that Kerim ?ncin had indeed been killed and that his body had been buried in Ta?ba?? village cemetery.\n  11.\u00a0\u00a0On 26 May 2006 the prosecutor asked the Hakkari Gendarmerie Command whether there would be any security concerns if he were to visit that cemetery with a view to exhuming a body. The prosecutor was informed in reply that it was not a good idea to do so because the security forces conducted spontaneous operations in the area during the summer months.\n  12.\u00a0\u00a0The prosecutor continued to request security updates from the military until 2009 and sent approximately twenty letters requesting that the military inform him as soon as it was possible to visit the village. In respect of the requests made during winter months the military informed the prosecutor that it would not be safe to go to the area because of adverse weather conditions. In their replies during spring, summer and autumn months, the soldiers informed the prosecutor that it was not a good idea to go to the area in question because a military operation could be conducted there at any time.\n  13.\u00a0\u00a0Finally, on 11 June 2009 the prosecutor informed the military of his intention to go to the cemetery on 18 June 2009 and instructed the military to take the necessary security measures for his planned visit.\n  14.\u00a0\u00a0On 18 June 2009 the prosecutor went to the cemetery in question and a body was exhumed from a grave in his presence. It was subsequently established by DNA analysis that it was the body of Kerim ?ncin. Forensic examinations showed that there were ten holes in the clothes in which Kerim ?ncin had been buried and that the cause of death had been numerous firearms injuries inflicted on his body and skull.\n  15.\u00a0\u00a0On 25 March 2010 the prosecutor took a decision not to prosecute ten of the suspects who had been working as members of the military at the time of the events, for lack of evidence. The following day the prosecutor prepared an indictment and charged Y.K. ? who had been the commander of the Ge\u00e7imli military station where Kerim ?ncin had allegedly been taken at the time of the events ? with the offence of murder.\n  16.\u00a0\u00a0The trial before the Hakkari Assize Court started on 12 April 2010. The two applicants who had introduced the complaint with the prosecutor on 22 March 2005 (see paragraph 6 above), namely Halima ?ncin and Haz?m ?ncin, joined the criminal proceedings as interveners. In the course of the trial a total of twenty hearings were held. On 27\u00a0November 2014 the Hakkari Assize Court acquitted Y.K. for lack of evidence. The same day the applicants appealed against the judgment acquitting Y.K. and the proceedings before the Court of Cassation are still pending.\n  17.\u00a0\u00a0At the request of the Court, the Government stated that, in accordance with the applicable statute of limitations, the criminal proceedings against Y.K. would not become time-barred until 2025.",
+    "Entities": [
+        {
+            "Score": 0.7339438796043396,
+            "Type": "OTHER",
+            "Text": "3534/06",
+            "BeginOffset": 51,
+            "EndOffset": 58
+        },
+        {
+            "Score": 0.8219870328903198,
+            "Type": "ORGANIZATION",
+            "Text": "Republic of Turkey",
+            "BeginOffset": 72,
+            "EndOffset": 90
+        },
+        {
+            "Score": 0.8484350442886353,
+            "Type": "OTHER",
+            "Text": "Article 34",
+            "BeginOffset": 119,
+            "EndOffset": 129
+        },
+        {
+            "Score": 0.9432564377784729,
+            "Type": "TITLE",
+            "Text": "Convention for the Protection of Human Rights and Fundamental Freedoms",
+            "BeginOffset": 137,
+            "EndOffset": 207
+        },
+        {
+            "Score": 0.8635517954826355,
+            "Type": "QUANTITY",
+            "Text": "fifteen",
+            "BeginOffset": 230,
+            "EndOffset": 237
+        },
+        {
+            "Score": 0.9218772053718567,
+            "Type": "OTHER",
+            "Text": "Turkish",
+            "BeginOffset": 238,
+            "EndOffset": 245
+        },
+        {
+            "Score": 0.9693583250045776,
+            "Type": "DATE",
+            "Text": "27\u00a0December 2005",
+            "BeginOffset": 278,
+            "EndOffset": 294
+        },
+        {
+            "Score": 0.9994187355041504,
+            "Type": "PERSON",
+            "Text": "Cemal Demir",
+            "BeginOffset": 428,
+            "EndOffset": 439
+        },
+        {
+            "Score": 0.41687819361686707,
+            "Type": "PERSON",
+            "Text": "Van",
+            "BeginOffset": 464,
+            "EndOffset": 467
+        },
+        {
+            "Score": 0.4790191948413849,
+            "Type": "OTHER",
+            "Text": "Turkish",
+            "BeginOffset": 473,
+            "EndOffset": 480
+        },
+        {
+            "Score": 0.9992707371711731,
+            "Type": "DATE",
+            "Text": "June 1995",
+            "BeginOffset": 670,
+            "EndOffset": 679
+        },
+        {
+            "Score": 0.9625505208969116,
+            "Type": "OTHER",
+            "Text": "Article 2",
+            "BeginOffset": 740,
+            "EndOffset": 749
+        },
+        {
+            "Score": 0.7077063322067261,
+            "Type": "TITLE",
+            "Text": "Convention.\n  4",
+            "BeginOffset": 757,
+            "EndOffset": 772
+        },
+        {
+            "Score": 0.9981484413146973,
+            "Type": "DATE",
+            "Text": "10 November 2015",
+            "BeginOffset": 778,
+            "EndOffset": 794
+        },
+        {
+            "Score": 0.9185667037963867,
+            "Type": "OTHER",
+            "Text": "Article\u00a02",
+            "BeginOffset": 815,
+            "EndOffset": 824
+        },
+        {
+            "Score": 0.9995322227478027,
+            "Type": "DATE",
+            "Text": "22 March 2005",
+            "BeginOffset": 919,
+            "EndOffset": 932
+        },
+        {
+            "Score": 0.9998425245285034,
+            "Type": "QUANTITY",
+            "Text": "first applicant",
+            "BeginOffset": 1082,
+            "EndOffset": 1097
+        },
+        {
+            "Score": 0.9982826709747314,
+            "Type": "PERSON",
+            "Text": "Kerim",
+            "BeginOffset": 1128,
+            "EndOffset": 1133
+        },
+        {
+            "Score": 0.999997615814209,
+            "Type": "QUANTITY",
+            "Text": "second",
+            "BeginOffset": 1145,
+            "EndOffset": 1151
+        },
+        {
+            "Score": 0.8518267869949341,
+            "Type": "QUANTITY",
+            "Text": "seventh applicants",
+            "BeginOffset": 1155,
+            "EndOffset": 1173
+        },
+        {
+            "Score": 0.999845027923584,
+            "Type": "QUANTITY",
+            "Text": "eighth applicant",
+            "BeginOffset": 1196,
+            "EndOffset": 1212
+        },
+        {
+            "Score": 0.9995287656784058,
+            "Type": "QUANTITY",
+            "Text": "seven applicants",
+            "BeginOffset": 1245,
+            "EndOffset": 1261
+        },
+        {
+            "Score": 0.9991222023963928,
+            "Type": "PERSON",
+            "Text": "Kerim",
+            "BeginOffset": 1282,
+            "EndOffset": 1287
+        },
+        {
+            "Score": 0.9985567927360535,
+            "Type": "DATE",
+            "Text": "22 March 2005",
+            "BeginOffset": 1304,
+            "EndOffset": 1317
+        },
+        {
+            "Score": 0.9995080232620239,
+            "Type": "PERSON",
+            "Text": "Halima",
+            "BeginOffset": 1333,
+            "EndOffset": 1339
+        },
+        {
+            "Score": 0.7946671843528748,
+            "Type": "PERSON",
+            "Text": "Haz",
+            "BeginOffset": 1350,
+            "EndOffset": 1353
+        },
+        {
+            "Score": 0.9999871253967285,
+            "Type": "LOCATION",
+            "Text": "Hakkari",
+            "BeginOffset": 1428,
+            "EndOffset": 1435
+        },
+        {
+            "Score": 0.9999209046363831,
+            "Type": "QUANTITY",
+            "Text": "two applicants",
+            "BeginOffset": 1470,
+            "EndOffset": 1484
+        },
+        {
+            "Score": 0.9999852180480957,
+            "Type": "DATE",
+            "Text": "1994",
+            "BeginOffset": 1581,
+            "EndOffset": 1585
+        },
+        {
+            "Score": 0.9999690055847168,
+            "Type": "LOCATION",
+            "Text": "Turkey",
+            "BeginOffset": 1625,
+            "EndOffset": 1631
+        },
+        {
+            "Score": 0.9999536275863647,
+            "Type": "LOCATION",
+            "Text": "Iraq",
+            "BeginOffset": 1674,
+            "EndOffset": 1678
+        },
+        {
+            "Score": 0.9996554851531982,
+            "Type": "DATE",
+            "Text": "June 1995",
+            "BeginOffset": 1683,
+            "EndOffset": 1692
+        },
+        {
+            "Score": 0.9987232089042664,
+            "Type": "PERSON",
+            "Text": "Kerim",
+            "BeginOffset": 1693,
+            "EndOffset": 1698
+        },
+        {
+            "Score": 0.9998452663421631,
+            "Type": "LOCATION",
+            "Text": "Turkey",
+            "BeginOffset": 1739,
+            "EndOffset": 1745
+        },
+        {
+            "Score": 0.9999322891235352,
+            "Type": "LOCATION",
+            "Text": "Ge\u00e7imli",
+            "BeginOffset": 1899,
+            "EndOffset": 1906
+        },
+        {
+            "Score": 0.9999526739120483,
+            "Type": "PERSON",
+            "Text": "Kerim",
+            "BeginOffset": 1955,
+            "EndOffset": 1960
+        },
+        {
+            "Score": 0.6659163236618042,
+            "Type": "PERSON",
+            "Text": "Haz",
+            "BeginOffset": 2247,
+            "EndOffset": 2250
+        },
+        {
+            "Score": 0.9808830618858337,
+            "Type": "LOCATION",
+            "Text": "Turkey",
+            "BeginOffset": 2284,
+            "EndOffset": 2290
+        },
+        {
+            "Score": 0.9242048263549805,
+            "Type": "LOCATION",
+            "Text": "Iraq",
+            "BeginOffset": 2296,
+            "EndOffset": 2300
+        },
+        {
+            "Score": 0.8892768621444702,
+            "Type": "QUANTITY",
+            "Text": "two applicants",
+            "BeginOffset": 2403,
+            "EndOffset": 2417
+        },
+        {
+            "Score": 0.8834922909736633,
+            "Type": "PERSON",
+            "Text": "Kerim",
+            "BeginOffset": 2658,
+            "EndOffset": 2663
+        },
+        {
+            "Score": 0.9989070892333984,
+            "Type": "DATE",
+            "Text": "2005",
+            "BeginOffset": 2864,
+            "EndOffset": 2868
+        },
+        {
+            "Score": 0.9926183819770813,
+            "Type": "DATE",
+            "Text": "2006",
+            "BeginOffset": 2873,
+            "EndOffset": 2877
+        },
+        {
+            "Score": 0.9999936819076538,
+            "Type": "PERSON",
+            "Text": "Kerim",
+            "BeginOffset": 3317,
+            "EndOffset": 3322
+        },
+        {
+            "Score": 0.9999717473983765,
+            "Type": "PERSON",
+            "Text": "Kerim",
+            "BeginOffset": 3501,
+            "EndOffset": 3506
+        },
+        {
+            "Score": 0.9999681711196899,
+            "Type": "PERSON",
+            "Text": "Kerim",
+            "BeginOffset": 3831,
+            "EndOffset": 3836
+        },
+        {
+            "Score": 0.9988265037536621,
+            "Type": "DATE",
+            "Text": "26 May 2006",
+            "BeginOffset": 3939,
+            "EndOffset": 3950
+        },
+        {
+            "Score": 0.9501685500144958,
+            "Type": "ORGANIZATION",
+            "Text": "Hakkari Gendarmerie Command",
+            "BeginOffset": 3976,
+            "EndOffset": 4003
+        },
+        {
+            "Score": 0.9999856948852539,
+            "Type": "DATE",
+            "Text": "2009",
+            "BeginOffset": 4372,
+            "EndOffset": 4376
+        },
+        {
+            "Score": 0.9993059039115906,
+            "Type": "QUANTITY",
+            "Text": "twenty letters",
+            "BeginOffset": 4400,
+            "EndOffset": 4414
+        },
+        {
+            "Score": 0.9997478127479553,
+            "Type": "DATE",
+            "Text": "11 June 2009",
+            "BeginOffset": 4916,
+            "EndOffset": 4928
+        },
+        {
+            "Score": 0.9998229742050171,
+            "Type": "DATE",
+            "Text": "18 June 2009",
+            "BeginOffset": 5008,
+            "EndOffset": 5020
+        },
+        {
+            "Score": 0.999391496181488,
+            "Type": "DATE",
+            "Text": "18 June 2009",
+            "BeginOffset": 5122,
+            "EndOffset": 5134
+        },
+        {
+            "Score": 0.8693206906318665,
+            "Type": "PERSON",
+            "Text": "Kerim",
+            "BeginOffset": 5308,
+            "EndOffset": 5313
+        },
+        {
+            "Score": 0.8159337639808655,
+            "Type": "QUANTITY",
+            "Text": "ten holes",
+            "BeginOffset": 5366,
+            "EndOffset": 5375
+        },
+        {
+            "Score": 0.9045849442481995,
+            "Type": "PERSON",
+            "Text": "Kerim",
+            "BeginOffset": 5400,
+            "EndOffset": 5405
+        },
+        {
+            "Score": 0.997581958770752,
+            "Type": "QUANTITY",
+            "Text": "15",
+            "BeginOffset": 5527,
+            "EndOffset": 5529
+        },
+        {
+            "Score": 0.9963746666908264,
+            "Type": "DATE",
+            "Text": "25 March 2010",
+            "BeginOffset": 5535,
+            "EndOffset": 5548
+        },
+        {
+            "Score": 0.8368607759475708,
+            "Type": "QUANTITY",
+            "Text": "ten of the suspects",
+            "BeginOffset": 5597,
+            "EndOffset": 5616
+        },
+        {
+            "Score": 0.9998407959938049,
+            "Type": "PERSON",
+            "Text": "Y.K.",
+            "BeginOffset": 5782,
+            "EndOffset": 5786
+        },
+        {
+            "Score": 0.7354240417480469,
+            "Type": "ORGANIZATION",
+            "Text": "Ge\u00e7imli military station",
+            "BeginOffset": 5823,
+            "EndOffset": 5847
+        },
+        {
+            "Score": 0.9847842454910278,
+            "Type": "PERSON",
+            "Text": "Kerim",
+            "BeginOffset": 5854,
+            "EndOffset": 5859
+        },
+        {
+            "Score": 0.974836528301239,
+            "Type": "ORGANIZATION",
+            "Text": "Hakkari Assize Court",
+            "BeginOffset": 5975,
+            "EndOffset": 5995
+        },
+        {
+            "Score": 0.9999688863754272,
+            "Type": "DATE",
+            "Text": "12 April 2010",
+            "BeginOffset": 6007,
+            "EndOffset": 6020
+        },
+        {
+            "Score": 0.9998540878295898,
+            "Type": "QUANTITY",
+            "Text": "two applicants",
+            "BeginOffset": 6026,
+            "EndOffset": 6040
+        },
+        {
+            "Score": 0.9991500377655029,
+            "Type": "DATE",
+            "Text": "22 March 2005",
+            "BeginOffset": 6097,
+            "EndOffset": 6110
+        },
+        {
+            "Score": 0.9997562766075134,
+            "Type": "OTHER",
+            "Text": "paragraph 6",
+            "BeginOffset": 6116,
+            "EndOffset": 6127
+        },
+        {
+            "Score": 0.9999264478683472,
+            "Type": "PERSON",
+            "Text": "Halima",
+            "BeginOffset": 6143,
+            "EndOffset": 6149
+        },
+        {
+            "Score": 0.740198016166687,
+            "Type": "PERSON",
+            "Text": "Haz",
+            "BeginOffset": 6160,
+            "EndOffset": 6163
+        },
+        {
+            "Score": 0.9983792901039124,
+            "Type": "QUANTITY",
+            "Text": "twenty hearings",
+            "BeginOffset": 6259,
+            "EndOffset": 6274
+        },
+        {
+            "Score": 0.9982765316963196,
+            "Type": "DATE",
+            "Text": "27\u00a0November 2014",
+            "BeginOffset": 6289,
+            "EndOffset": 6305
+        },
+        {
+            "Score": 0.9570145010948181,
+            "Type": "ORGANIZATION",
+            "Text": "Hakkari Assize Court",
+            "BeginOffset": 6310,
+            "EndOffset": 6330
+        },
+        {
+            "Score": 0.9978591799736023,
+            "Type": "PERSON",
+            "Text": "Y.K.",
+            "BeginOffset": 6341,
+            "EndOffset": 6345
+        },
+        {
+            "Score": 0.9999598264694214,
+            "Type": "ORGANIZATION",
+            "Text": "Court of Cassation",
+            "BeginOffset": 6473,
+            "EndOffset": 6491
+        },
+        {
+            "Score": 0.9999679327011108,
+            "Type": "DATE",
+            "Text": "2025",
+            "BeginOffset": 6706,
+            "EndOffset": 6710
+        }
+    ]
+}

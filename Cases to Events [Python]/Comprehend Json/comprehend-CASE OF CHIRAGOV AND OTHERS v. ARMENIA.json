@@ -1,0 +1,335 @@
+{
+    "CaseName": "CASE OF CHIRAGOV AND OTHERS v. ARMENIA",
+    "CaseText": "E\n  1.\u00a0\u00a0The case originated in an application (no. 13216/05) against the Republic of Armenia lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (\u201cthe Convention\u201d) by six Azerbaijani nationals, Mr Elkhan Chiragov, Mr\u00a0Adishirin Chiragov, Mr Ramiz Gebrayilov, Mr Akif Hasanof, Mr\u00a0Fekhreddin Pashayev and Mr Qaraca Gabrayilov (\u201cthe applicants\u201d), on 6\u00a0April 2005. The sixth applicant died in June 2005. The application was pursued on his behalf by his son, Mr Sagatel Gabrayilov.\n  2.\u00a0\u00a0In a judgment delivered on 16 June 2015 (\u201cthe principal judgment\u201d), the Court held that there had been continuing violations of Articles 8 and 13 of the Convention and Article 1 of Protocol No. 1 to the Convention and that no separate issue arose under Article 14 of the Convention. In particular, with respect to Article 1 of Protocol No. 1, the Court concluded that, as concerned the period under scrutiny, that is, from 26 April 2002, no aim had been indicated which could justify the denial of access of the applicants to their property and the lack of compensation for this interference. The Court found the Republic of Armenia responsible for the breaches of the applicants\u2019 rights (Chiragov and Others v. Armenia [GC], no.\u00a013216/05, \u00a7 201, ECHR 2015).\n  3.\u00a0\u00a0Under Article 41 of the Convention the applicants sought just satisfaction amounting to several million euros (EUR) in respect of damage sustained and of costs and expenses.\n  4.\u00a0\u00a0Since the question of the application of Article 41 of the Convention was not ready for decision, the Court reserved it and invited the Government and the applicants to submit, within twelve months, their written observations on that issue and, in particular, to notify the Court of any agreement they might reach (\u00a7 222 and point 8 of the operative provisions of the principal judgment).\n  5.\u00a0\u00a0Having failed to reach an agreement, the applicants submitted their observations on 16 June and 28 December 2016 and the Government on 16\u00a0September and 30 December 2016.\n  6.\u00a0\u00a0The composition of the Grand Chamber was determined according to the provisions of Article 26 \u00a7\u00a7 4 and 5 and Rule 24 of the Rules of Court.\n  7.\u00a0\u00a0In response to a request from the Government, the Court decides that the examination of the issue of just satisfaction does not require it to undertake a fact-finding mission.",
+    "Entities": [
+        {
+            "Score": 0.8404958248138428,
+            "Type": "OTHER",
+            "Text": "13216/05",
+            "BeginOffset": 51,
+            "EndOffset": 59
+        },
+        {
+            "Score": 0.8720245361328125,
+            "Type": "ORGANIZATION",
+            "Text": "Republic of Armenia",
+            "BeginOffset": 73,
+            "EndOffset": 92
+        },
+        {
+            "Score": 0.868577241897583,
+            "Type": "OTHER",
+            "Text": "Article 34",
+            "BeginOffset": 121,
+            "EndOffset": 131
+        },
+        {
+            "Score": 0.9440544843673706,
+            "Type": "TITLE",
+            "Text": "Convention for the Protection of Human Rights and Fundamental Freedoms",
+            "BeginOffset": 139,
+            "EndOffset": 209
+        },
+        {
+            "Score": 0.7652768492698669,
+            "Type": "QUANTITY",
+            "Text": "six",
+            "BeginOffset": 232,
+            "EndOffset": 235
+        },
+        {
+            "Score": 0.7735614776611328,
+            "Type": "OTHER",
+            "Text": "Azerbaijani",
+            "BeginOffset": 236,
+            "EndOffset": 247
+        },
+        {
+            "Score": 0.9991948008537292,
+            "Type": "PERSON",
+            "Text": "Elkhan Chiragov",
+            "BeginOffset": 262,
+            "EndOffset": 277
+        },
+        {
+            "Score": 0.9830160737037659,
+            "Type": "PERSON",
+            "Text": "Adishirin Chiragov",
+            "BeginOffset": 282,
+            "EndOffset": 300
+        },
+        {
+            "Score": 0.9994045495986938,
+            "Type": "PERSON",
+            "Text": "Ramiz Gebrayilov",
+            "BeginOffset": 305,
+            "EndOffset": 321
+        },
+        {
+            "Score": 0.9984636306762695,
+            "Type": "PERSON",
+            "Text": "Akif Hasanof",
+            "BeginOffset": 326,
+            "EndOffset": 338
+        },
+        {
+            "Score": 0.9959710240364075,
+            "Type": "PERSON",
+            "Text": "Fekhreddin Pashayev",
+            "BeginOffset": 343,
+            "EndOffset": 362
+        },
+        {
+            "Score": 0.9967195987701416,
+            "Type": "PERSON",
+            "Text": "Qaraca Gabrayilov",
+            "BeginOffset": 370,
+            "EndOffset": 387
+        },
+        {
+            "Score": 0.9998577237129211,
+            "Type": "DATE",
+            "Text": "6\u00a0April 2005",
+            "BeginOffset": 411,
+            "EndOffset": 423
+        },
+        {
+            "Score": 0.9231777787208557,
+            "Type": "QUANTITY",
+            "Text": "sixth applicant",
+            "BeginOffset": 429,
+            "EndOffset": 444
+        },
+        {
+            "Score": 0.9993235468864441,
+            "Type": "DATE",
+            "Text": "June 2005",
+            "BeginOffset": 453,
+            "EndOffset": 462
+        },
+        {
+            "Score": 0.969619870185852,
+            "Type": "PERSON",
+            "Text": "Sagatel Gabrayilov",
+            "BeginOffset": 521,
+            "EndOffset": 539
+        },
+        {
+            "Score": 0.9999052286148071,
+            "Type": "DATE",
+            "Text": "16 June 2015",
+            "BeginOffset": 574,
+            "EndOffset": 586
+        },
+        {
+            "Score": 0.8277027010917664,
+            "Type": "OTHER",
+            "Text": "Articles 8",
+            "BeginOffset": 675,
+            "EndOffset": 685
+        },
+        {
+            "Score": 0.9778919816017151,
+            "Type": "OTHER",
+            "Text": "13",
+            "BeginOffset": 690,
+            "EndOffset": 692
+        },
+        {
+            "Score": 0.9234800338745117,
+            "Type": "TITLE",
+            "Text": "Convention and Article 1 of Protocol No. 1 to the Convention",
+            "BeginOffset": 700,
+            "EndOffset": 760
+        },
+        {
+            "Score": 0.8796536922454834,
+            "Type": "OTHER",
+            "Text": "Article 14",
+            "BeginOffset": 800,
+            "EndOffset": 810
+        },
+        {
+            "Score": 0.9629271030426025,
+            "Type": "OTHER",
+            "Text": "Article 1",
+            "BeginOffset": 861,
+            "EndOffset": 870
+        },
+        {
+            "Score": 0.8973819017410278,
+            "Type": "OTHER",
+            "Text": "Protocol No. 1",
+            "BeginOffset": 874,
+            "EndOffset": 888
+        },
+        {
+            "Score": 0.9996529817581177,
+            "Type": "DATE",
+            "Text": "26 April 2002",
+            "BeginOffset": 970,
+            "EndOffset": 983
+        },
+        {
+            "Score": 0.7264426350593567,
+            "Type": "LOCATION",
+            "Text": "Republic of Armenia",
+            "BeginOffset": 1160,
+            "EndOffset": 1179
+        },
+        {
+            "Score": 0.9996716976165771,
+            "Type": "LOCATION",
+            "Text": "Chiragov",
+            "BeginOffset": 1236,
+            "EndOffset": 1244
+        },
+        {
+            "Score": 0.6915472149848938,
+            "Type": "EVENT",
+            "Text": "Others v. Armenia",
+            "BeginOffset": 1249,
+            "EndOffset": 1266
+        },
+        {
+            "Score": 0.8556258082389832,
+            "Type": "OTHER",
+            "Text": "13216/05",
+            "BeginOffset": 1277,
+            "EndOffset": 1285
+        },
+        {
+            "Score": 0.985860288143158,
+            "Type": "OTHER",
+            "Text": "\u00a7 201",
+            "BeginOffset": 1287,
+            "EndOffset": 1292
+        },
+        {
+            "Score": 0.9960175156593323,
+            "Type": "OTHER",
+            "Text": "ECHR 2015",
+            "BeginOffset": 1294,
+            "EndOffset": 1303
+        },
+        {
+            "Score": 0.7587579488754272,
+            "Type": "OTHER",
+            "Text": "Article 41",
+            "BeginOffset": 1318,
+            "EndOffset": 1328
+        },
+        {
+            "Score": 0.9018192887306213,
+            "Type": "QUANTITY",
+            "Text": "several million euros",
+            "BeginOffset": 1400,
+            "EndOffset": 1421
+        },
+        {
+            "Score": 0.9976394176483154,
+            "Type": "OTHER",
+            "Text": "EUR",
+            "BeginOffset": 1423,
+            "EndOffset": 1426
+        },
+        {
+            "Score": 0.9997296333312988,
+            "Type": "OTHER",
+            "Text": "Article 41",
+            "BeginOffset": 1533,
+            "EndOffset": 1543
+        },
+        {
+            "Score": 0.7405623197555542,
+            "Type": "QUANTITY",
+            "Text": "twelve months",
+            "BeginOffset": 1676,
+            "EndOffset": 1689
+        },
+        {
+            "Score": 0.994533360004425,
+            "Type": "QUANTITY",
+            "Text": "\u00a7 222",
+            "BeginOffset": 1807,
+            "EndOffset": 1812
+        },
+        {
+            "Score": 0.9749331474304199,
+            "Type": "OTHER",
+            "Text": "point 8",
+            "BeginOffset": 1817,
+            "EndOffset": 1824
+        },
+        {
+            "Score": 0.9999904036521912,
+            "Type": "DATE",
+            "Text": "16 June",
+            "BeginOffset": 1971,
+            "EndOffset": 1978
+        },
+        {
+            "Score": 0.9960074424743652,
+            "Type": "DATE",
+            "Text": "28 December 2016",
+            "BeginOffset": 1983,
+            "EndOffset": 1999
+        },
+        {
+            "Score": 0.9936396479606628,
+            "Type": "DATE",
+            "Text": "16\u00a0September",
+            "BeginOffset": 2022,
+            "EndOffset": 2034
+        },
+        {
+            "Score": 0.9954683184623718,
+            "Type": "DATE",
+            "Text": "30 December 2016",
+            "BeginOffset": 2039,
+            "EndOffset": 2055
+        },
+        {
+            "Score": 0.9996665120124817,
+            "Type": "ORGANIZATION",
+            "Text": "Grand Chamber",
+            "BeginOffset": 2086,
+            "EndOffset": 2099
+        },
+        {
+            "Score": 0.9999972581863403,
+            "Type": "OTHER",
+            "Text": "Article 26",
+            "BeginOffset": 2146,
+            "EndOffset": 2156
+        },
+        {
+            "Score": 0.7849897742271423,
+            "Type": "OTHER",
+            "Text": "4",
+            "BeginOffset": 2160,
+            "EndOffset": 2161
+        },
+        {
+            "Score": 0.993515133857727,
+            "Type": "OTHER",
+            "Text": "5",
+            "BeginOffset": 2166,
+            "EndOffset": 2167
+        },
+        {
+            "Score": 0.72955721616745,
+            "Type": "OTHER",
+            "Text": "Rule 24",
+            "BeginOffset": 2172,
+            "EndOffset": 2179
+        },
+        {
+            "Score": 0.8700606822967529,
+            "Type": "TITLE",
+            "Text": "Rules of Court.\n  7",
+            "BeginOffset": 2187,
+            "EndOffset": 2206
+        }
+    ]
+}

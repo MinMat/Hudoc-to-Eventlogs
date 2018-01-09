@@ -82,10 +82,12 @@ class EventDetector():
            caseText[position-3:position] == 'nos' or \
            caseText[position-2] == ' ' or \
            caseText[position-1] == '.' or \
-           caseText[position-2] == '.' or \
-           caseText[position+1] == '.' or \
-           caseText[position+2] == '.':
+           caseText[position-2] == '.':
            return False
+
+        if position+2 < len(caseText)-1:
+            if caseText[position+1] == '.' or caseText[position+2] == '.':
+                return False
             
         return True
 

@@ -13,11 +13,17 @@ class ComprehendCaseEntities():
         self._caseName = caseName
         self._awsregion = awsregion
         self._language = langCode
-        # skip everything before and including procedure
-        procedureIndex = caseText.find('PROCEDURE')
-        if procedureIndex == -1:
-            raise Exception('No PROCEDURE in this file')
-        caseText = caseText[procedureIndex+9:]
+        # skip everything before and including procedure and skip everything after "II. "
+        # => only keep the procedure and the first part of the facts section which is "I. THE CIRCUMSTANCES OF THE CASE"
+        procedureIndex = caseText.find('\nPROCEDURE\n')
+        sectionTwoIndex = caseText.find('\nII. ', procedureIndex)
+        if sectionTwoIndex == -1:
+            sectionTwoIndex = caseText.find('\nTHE LAW\n', procedureIndex)
+        if sectionTwoIndex == -1:
+            sectionTwoIndex = caseText.find('\nRELEVANT DOMESTIC LAW\n', procedureIndex)
+        if procedureIndex == -1 or sectionTwoIndex == -1:
+            raise Exception('No PROCEDURE or section "II. " in this file')
+        caseText = caseText[procedureIndex+9:sectionTwoIndex]
         self._caseText = caseText
         self._stringArray = self._4800bytesStringArray(caseText)
         
