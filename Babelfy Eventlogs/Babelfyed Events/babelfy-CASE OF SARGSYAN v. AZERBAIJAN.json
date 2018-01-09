@@ -1,0 +1,2141 @@
+
+{
+    "CaseName":"CASE OF SARGSYAN v. AZERBAIJAN",
+    "CaseText":"E\n  1.  The case originated in an application (no. 40167/06) against the Republic of Azerbaijan lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by an Armenian national, Mr Minas Sargsyan (“the applicant”), on 11 August 2006. The applicant died in 2009. Subsequently, the application was pursued by his widow, Ms Lena Sargsyan, born in 1936, and by his son Mr Vladimir Sargsyan and his daughters Ms Tsovinar and Nina Sargsyan, born in 1957, 1959 and 1966, respectively. Ms Lena Sargsyan died in 2014. Mr Vladimir Sargsyan and Ms Tsovinar Sargsyan pursued the proceedings on the applicant’s behalf.\n  2.  The applicant, who had been granted legal aid, was represented by Ms N. Gasparyan and Ms K. Ohanyan, lawyers practising in Yerevan, and by Mr Philip Leach, director of the European Human Rights Advocacy Centre. The Azerbaijani Government (“the Government”) were represented by their Agent Mr Ç. Asgarov.\n  3.  In a judgment delivered on 16 June 2015 (“the principal judgment”), the Grand Chamber dismissed the respondent Government’s preliminary objections of non-exhaustion of domestic remedies, lack of jurisdiction and responsibility, lack of the Court’s competence ratione temporis and lack of the applicant’s victim status in respect of his complaints relating to his relatives’ graves. The Grand Chamber held that there had been a continuing violation of Article 1 of Protocol No. 1. It also found continuing violations of Articles 8 and Article 13 of the Convention and held that no separate issue arose under Article 14 of the Convention. In particular, in respect of Article 1 of Protocol No. 1, the Court found as regards the period falling within its temporal jurisdiction, that is, from 15 April 2002, that although the impossibility for the applicant to have access to his property in Gulistan was justified by safety considerations, the respondent Government’s failure to take any alternative measures in order to restore his property rights or to provide him with compensation for the loss of their enjoyment placed a disproportionate burden on him (Sargsyan v. Azerbaijan [GC], no. 40167/06, ECHR 2015).\n  4.  Under Article 41 of the Convention the applicant sought just satisfaction in respect of pecuniary and non-pecuniary damage resulting from the violations found in the present case, as well as reimbursement of the costs and expenses incurred in the proceedings before the Court.\n  5.  Since the question of the application of Article 41 of the Convention was not ready for decision, the Court reserved it and invited the Government and the applicant to submit, within twelve months, their written observations on that issue and, in particular, to notify the Court of any agreement they might reach (§ 283 and point 9 of the operative provisions of the principal judgment).\n  6.  The parties having failed to reach an agreement, the applicant submitted his observations on 16 June and 13 December 2016 and the Government on 16 September and 24 October 2016.\n  7.  The composition of the Grand Chamber was determined according to the provisions of Article 26 §§ 4 and 5 and Rule 24 of the Rules of Court.",
+    "Events":[
+        {
+            "Id":1,
+            "Date":"11 August 2006",
+            "Sentence":"  The case originated in an application (no. 40167/06) against the Republic of Azerbaijan lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by an Armenian national, Mr Minas Sargsyan (“the applicant”), on 11 August 2006",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00016401n",
+                    "Name":"instance#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00082757v",
+                    "Name":"arise#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0002765486715361476,
+                    "Coherencescore":0.03999999910593033
+                },
+                {
+                    "Synsetid":"bn:00005092n",
+                    "Name":"application#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00057820n",
+                    "Name":"ordinal_number#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00021207n",
+                    "Name":"democracy#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00007568n",
+                    "Name":"Azerbaijan#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.028207965195178986,
+                    "Coherencescore":0.23999999463558197
+                },
+                {
+                    "Synsetid":"bn:00084803v",
+                    "Name":"charge#v#6",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0044247787445783615,
+                    "Coherencescore":0.1599999964237213
+                },
+                {
+                    "Synsetid":"bn:00023308n",
+                    "Name":"court#n#8",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0638827458024025,
+                    "Coherencescore":0.4399999976158142
+                },
+                {
+                    "Synsetid":"bn:00006121n",
+                    "Name":"article#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00022333n",
+                    "Name":"convention#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00064839n",
+                    "Name":"protection#n#3",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0011061946861445904,
+                    "Coherencescore":0.07999999821186066
+                },
+                {
+                    "Synsetid":"bn:00044576n",
+                    "Name":"human#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.18805310130119324,
+                    "Coherencescore":0.6800000071525574
+                },
+                {
+                    "Synsetid":"bn:00045163n",
+                    "Name":"human_right#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.12389380484819412,
+                    "Coherencescore":0.5600000023841858
+                },
+                {
+                    "Synsetid":"bn:00067807n",
+                    "Name":"right#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.03097345121204853,
+                    "Coherencescore":0.3199999928474426
+                },
+                {
+                    "Synsetid":"bn:00034779n",
+                    "Name":"fundamental_frequency#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0002765486715361476,
+                    "Coherencescore":0.03999999910593033
+                },
+                {
+                    "Synsetid":"bn:01619234n",
+                    "Name":"WIKI:EN:Fundamental_rights",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.013827433809638023,
+                    "Coherencescore":0.20000000298023224
+                },
+                {
+                    "Synsetid":"bn:00036376n",
+                    "Name":"freedom#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00022333n",
+                    "Name":"convention#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005739n",
+                    "Name":"Armenian#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00107136a",
+                    "Name":"national#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00055346n",
+                    "Name":"Mister#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0011061946861445904,
+                    "Coherencescore":0.07999999821186066
+                },
+                {
+                    "Synsetid":"bn:00055096n",
+                    "Name":"myna#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00376049n",
+                    "Name":"WIKI:EN:Sargsyan",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0008296460146084428,
+                    "Coherencescore":0.03999999910593033
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.003318584058433771,
+                    "Coherencescore":0.11999999731779099
+                },
+                {
+                    "Synsetid":"bn:00007140n",
+                    "Name":"August#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:03331942n",
+                    "Name":"WIKI:EN:August_2006",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0011061946861445904,
+                    "Coherencescore":0.07999999821186066
+                }
+            ]
+        },
+        {
+            "Id":2,
+            "Date":"2009",
+            "Sentence":" The applicant died in 2009",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00086783v",
+                    "Name":"die#v#2",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                }
+            ]
+        },
+        {
+            "Id":3,
+            "Date":"1936",
+            "Sentence":" Subsequently, the application was pursued by his widow, Ms Lena Sargsyan, born in 1936, and by his son Mr Vladimir Sargsyan and his daughters Ms Tsovinar and Nina Sargsyan, born in 1957, 1959 and 1966, respectively",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:01681746n",
+                    "Name":"WIKI:EN:subsequence",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005095n",
+                    "Name":"application#n#4",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.002020202111452818,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00082297v",
+                    "Name":"act_on#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.008080808445811272,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:00081167n",
+                    "Name":"widow#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0181818176060915,
+                    "Coherencescore":0.1875
+                },
+                {
+                    "Synsetid":"bn:00052501n",
+                    "Name":"metre#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00376049n",
+                    "Name":"WIKI:EN:Sargsyan",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.002020202111452818,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00083221v",
+                    "Name":"bear#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00012571n",
+                    "Name":"boy#n#3",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00055346n",
+                    "Name":"Mister#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.06464646756649017,
+                    "Coherencescore":0.25
+                },
+                {
+                    "Synsetid":"bn:03474282n",
+                    "Name":"WIKI:EN:Vladimir,_Gorj",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.008080808445811272,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:16067852n",
+                    "Name":"WIKI:EN:Vladimir_Sargsyan",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0181818176060915,
+                    "Coherencescore":0.1875
+                },
+                {
+                    "Synsetid":"bn:00376049n",
+                    "Name":"WIKI:EN:Sargsyan",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.002020202111452818,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00025364n",
+                    "Name":"daughter#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.03030303120613098,
+                    "Coherencescore":0.1875
+                },
+                {
+                    "Synsetid":"bn:00052501n",
+                    "Name":"metre#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00267713n",
+                    "Name":"WIKI:EN:Niña",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.008080808445811272,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:00376049n",
+                    "Name":"WIKI:EN:Sargsyan",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.002020202111452818,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00083221v",
+                    "Name":"bear#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00116843r",
+                    "Name":"respectively#r#1",
+                    "Part of speech":"ADVERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                }
+            ]
+        },
+        {
+            "Id":4,
+            "Date":"1957",
+            "Sentence":" Subsequently, the application was pursued by his widow, Ms Lena Sargsyan, born in 1936, and by his son Mr Vladimir Sargsyan and his daughters Ms Tsovinar and Nina Sargsyan, born in 1957, 1959 and 1966, respectively",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:01681746n",
+                    "Name":"WIKI:EN:subsequence",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005095n",
+                    "Name":"application#n#4",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.002020202111452818,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00082297v",
+                    "Name":"act_on#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.008080808445811272,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:00081167n",
+                    "Name":"widow#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0181818176060915,
+                    "Coherencescore":0.1875
+                },
+                {
+                    "Synsetid":"bn:00052501n",
+                    "Name":"metre#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00376049n",
+                    "Name":"WIKI:EN:Sargsyan",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.002020202111452818,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00083221v",
+                    "Name":"bear#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00012571n",
+                    "Name":"boy#n#3",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00055346n",
+                    "Name":"Mister#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.06464646756649017,
+                    "Coherencescore":0.25
+                },
+                {
+                    "Synsetid":"bn:03474282n",
+                    "Name":"WIKI:EN:Vladimir,_Gorj",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.008080808445811272,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:16067852n",
+                    "Name":"WIKI:EN:Vladimir_Sargsyan",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0181818176060915,
+                    "Coherencescore":0.1875
+                },
+                {
+                    "Synsetid":"bn:00376049n",
+                    "Name":"WIKI:EN:Sargsyan",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.002020202111452818,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00025364n",
+                    "Name":"daughter#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.03030303120613098,
+                    "Coherencescore":0.1875
+                },
+                {
+                    "Synsetid":"bn:00052501n",
+                    "Name":"metre#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00267713n",
+                    "Name":"WIKI:EN:Niña",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.008080808445811272,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:00376049n",
+                    "Name":"WIKI:EN:Sargsyan",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.002020202111452818,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00083221v",
+                    "Name":"bear#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00116843r",
+                    "Name":"respectively#r#1",
+                    "Part of speech":"ADVERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                }
+            ]
+        },
+        {
+            "Id":5,
+            "Date":"1959",
+            "Sentence":" Subsequently, the application was pursued by his widow, Ms Lena Sargsyan, born in 1936, and by his son Mr Vladimir Sargsyan and his daughters Ms Tsovinar and Nina Sargsyan, born in 1957, 1959 and 1966, respectively",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:01681746n",
+                    "Name":"WIKI:EN:subsequence",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005095n",
+                    "Name":"application#n#4",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.002020202111452818,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00082297v",
+                    "Name":"act_on#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.008080808445811272,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:00081167n",
+                    "Name":"widow#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0181818176060915,
+                    "Coherencescore":0.1875
+                },
+                {
+                    "Synsetid":"bn:00052501n",
+                    "Name":"metre#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00376049n",
+                    "Name":"WIKI:EN:Sargsyan",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.002020202111452818,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00083221v",
+                    "Name":"bear#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00012571n",
+                    "Name":"boy#n#3",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00055346n",
+                    "Name":"Mister#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.06464646756649017,
+                    "Coherencescore":0.25
+                },
+                {
+                    "Synsetid":"bn:03474282n",
+                    "Name":"WIKI:EN:Vladimir,_Gorj",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.008080808445811272,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:16067852n",
+                    "Name":"WIKI:EN:Vladimir_Sargsyan",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0181818176060915,
+                    "Coherencescore":0.1875
+                },
+                {
+                    "Synsetid":"bn:00376049n",
+                    "Name":"WIKI:EN:Sargsyan",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.002020202111452818,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00025364n",
+                    "Name":"daughter#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.03030303120613098,
+                    "Coherencescore":0.1875
+                },
+                {
+                    "Synsetid":"bn:00052501n",
+                    "Name":"metre#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00267713n",
+                    "Name":"WIKI:EN:Niña",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.008080808445811272,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:00376049n",
+                    "Name":"WIKI:EN:Sargsyan",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.002020202111452818,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00083221v",
+                    "Name":"bear#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00116843r",
+                    "Name":"respectively#r#1",
+                    "Part of speech":"ADVERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                }
+            ]
+        },
+        {
+            "Id":6,
+            "Date":"1966",
+            "Sentence":" Subsequently, the application was pursued by his widow, Ms Lena Sargsyan, born in 1936, and by his son Mr Vladimir Sargsyan and his daughters Ms Tsovinar and Nina Sargsyan, born in 1957, 1959 and 1966, respectively",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:01681746n",
+                    "Name":"WIKI:EN:subsequence",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005095n",
+                    "Name":"application#n#4",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.002020202111452818,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00082297v",
+                    "Name":"act_on#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.008080808445811272,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:00081167n",
+                    "Name":"widow#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0181818176060915,
+                    "Coherencescore":0.1875
+                },
+                {
+                    "Synsetid":"bn:00052501n",
+                    "Name":"metre#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00376049n",
+                    "Name":"WIKI:EN:Sargsyan",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.002020202111452818,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00083221v",
+                    "Name":"bear#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00012571n",
+                    "Name":"boy#n#3",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00055346n",
+                    "Name":"Mister#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.06464646756649017,
+                    "Coherencescore":0.25
+                },
+                {
+                    "Synsetid":"bn:03474282n",
+                    "Name":"WIKI:EN:Vladimir,_Gorj",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.008080808445811272,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:16067852n",
+                    "Name":"WIKI:EN:Vladimir_Sargsyan",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0181818176060915,
+                    "Coherencescore":0.1875
+                },
+                {
+                    "Synsetid":"bn:00376049n",
+                    "Name":"WIKI:EN:Sargsyan",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.002020202111452818,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00025364n",
+                    "Name":"daughter#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.03030303120613098,
+                    "Coherencescore":0.1875
+                },
+                {
+                    "Synsetid":"bn:00052501n",
+                    "Name":"metre#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00267713n",
+                    "Name":"WIKI:EN:Niña",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.008080808445811272,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:00376049n",
+                    "Name":"WIKI:EN:Sargsyan",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.002020202111452818,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00083221v",
+                    "Name":"bear#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00116843r",
+                    "Name":"respectively#r#1",
+                    "Part of speech":"ADVERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                }
+            ]
+        },
+        {
+            "Id":7,
+            "Date":"2014",
+            "Sentence":" Ms Lena Sargsyan died in 2014",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00052501n",
+                    "Name":"metre#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00086783v",
+                    "Name":"die#v#2",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                }
+            ]
+        },
+        {
+            "Id":8,
+            "Date":"16 June 2015",
+            "Sentence":"  In a judgment delivered on 16 June 2015 (“the principal judgment”), the Grand Chamber dismissed the respondent Government’s preliminary objections of non-exhaustion of domestic remedies, lack of jurisdiction and responsibility, lack of the Court’s competence ratione temporis and lack of the applicant’s victim status in respect of his complaints relating to his relatives’ graves",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00048493n",
+                    "Name":"judgment#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00086530v",
+                    "Name":"deliver#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00048592n",
+                    "Name":"June#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.001241464982740581,
+                    "Coherencescore":0.0714285746216774
+                },
+                {
+                    "Synsetid":"bn:03277697n",
+                    "Name":"WIKI:EN:2015",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0037243948318064213,
+                    "Coherencescore":0.1071428582072258
+                },
+                {
+                    "Synsetid":"bn:00099598a",
+                    "Name":"main#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.001241464982740581,
+                    "Coherencescore":0.0714285746216774
+                },
+                {
+                    "Synsetid":"bn:00048493n",
+                    "Name":"judgment#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:03327376n",
+                    "Name":"WIKI:EN:Dawn_(spacecraft)",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0018621974159032106,
+                    "Coherencescore":0.0714285746216774
+                },
+                {
+                    "Synsetid":"bn:00017581n",
+                    "Name":"chamber#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00084160v",
+                    "Name":"brush_aside#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00067366n",
+                    "Name":"respondent#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00001426n",
+                    "Name":"governance#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13469894230365753,
+                    "Coherencescore":0.5
+                },
+                {
+                    "Synsetid":"bn:00108949a",
+                    "Name":"preliminary#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.001241464982740581,
+                    "Coherencescore":0.0714285746216774
+                },
+                {
+                    "Synsetid":"bn:00058461n",
+                    "Name":"objection#n#4",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.011173184029757977,
+                    "Coherencescore":0.2142857164144516
+                },
+                {
+                    "Synsetid":"bn:00101680a",
+                    "Name":"domestic#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00066729n",
+                    "Name":"remedy#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.030415890738368034,
+                    "Coherencescore":0.25
+                },
+                {
+                    "Synsetid":"bn:00025913n",
+                    "Name":"lack#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.013035382144153118,
+                    "Coherencescore":0.2142857164144516
+                },
+                {
+                    "Synsetid":"bn:00048653n",
+                    "Name":"jurisdiction#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.11266294121742249,
+                    "Coherencescore":0.3928571343421936
+                },
+                {
+                    "Synsetid":"bn:00029239n",
+                    "Name":"duty#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.01862197369337082,
+                    "Coherencescore":0.2142857164144516
+                },
+                {
+                    "Synsetid":"bn:00025913n",
+                    "Name":"lack#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.013035382144153118,
+                    "Coherencescore":0.2142857164144516
+                },
+                {
+                    "Synsetid":"bn:00023308n",
+                    "Name":"court#n#8",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.13718187808990479,
+                    "Coherencescore":0.4642857015132904
+                },
+                {
+                    "Synsetid":"bn:00021335n",
+                    "Name":"competence#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.014897579327225685,
+                    "Coherencescore":0.2142857164144516
+                },
+                {
+                    "Synsetid":"bn:00025913n",
+                    "Name":"lack#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.013035382144153118,
+                    "Coherencescore":0.2142857164144516
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00067941n",
+                    "Name":"sacrifice#n#4",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.008690254762768745,
+                    "Coherencescore":0.1428571492433548
+                },
+                {
+                    "Synsetid":"bn:00021644n",
+                    "Name":"condition#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.01955307275056839,
+                    "Coherencescore":0.25
+                },
+                {
+                    "Synsetid":"bn:00066865n",
+                    "Name":"regard#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00021349n",
+                    "Name":"complaint#n#4",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.03910614550113678,
+                    "Coherencescore":0.3214285671710968
+                },
+                {
+                    "Synsetid":"bn:00083240v",
+                    "Name":"concern#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.01551831141114235,
+                    "Coherencescore":0.1785714328289032
+                },
+                {
+                    "Synsetid":"bn:00021804n",
+                    "Name":"congener#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.00031036624568514526,
+                    "Coherencescore":0.0357142873108387
+                },
+                {
+                    "Synsetid":"bn:00060099n",
+                    "Name":"tempo#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.004965859930962324,
+                    "Coherencescore":0.1428571492433548
+                }
+            ]
+        },
+        {
+            "Id":9,
+            "Date":"15 April 2002",
+            "Sentence":" 1, the Court found as regards the period falling within its temporal jurisdiction, that is, from 15 April 2002, that although the impossibility for the applicant to have access to his property in Gulistan was justified by safety considerations, the respondent Government’s failure to take any alternative measures in order to restore his property rights or to provide him with compensation for the loss of their enjoyment placed a disproportionate burden on him (Sargsyan v. Azerbaijan [GC], no. 40167/06, ECHR 2015)",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00023308n",
+                    "Name":"court#n#8",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.07762052118778229,
+                    "Coherencescore":0.37142857909202576
+                },
+                {
+                    "Synsetid":"bn:00084231v",
+                    "Name":"encounter#v#2",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00085647v",
+                    "Name":"consider#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00036471n",
+                    "Name":"frequency#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.007739937864243984,
+                    "Coherencescore":0.1428571492433548
+                },
+                {
+                    "Synsetid":"bn:00087976v",
+                    "Name":"fall#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00111712a",
+                    "Name":"temporal#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:01102799n",
+                    "Name":"WIKI:EN:Temporal_jurisdiction_(papacy)",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00048653n",
+                    "Name":"jurisdiction#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.03361344709992409,
+                    "Coherencescore":0.22857142984867096
+                },
+                {
+                    "Synsetid":"bn:00005169n",
+                    "Name":"April#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0008845643606036901,
+                    "Coherencescore":0.05714285746216774
+                },
+                {
+                    "Synsetid":"bn:02466795n",
+                    "Name":"WIKI:EN:April_2002",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.00022114109015092254,
+                    "Coherencescore":0.02857142873108387
+                },
+                {
+                    "Synsetid":"bn:00768297n",
+                    "Name":"WIKI:EN:Impossibility",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.005307386163622141,
+                    "Coherencescore":0.11428571492433548
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00000661n",
+                    "Name":"admittance#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.009287925437092781,
+                    "Coherencescore":0.17142857611179352
+                },
+                {
+                    "Synsetid":"bn:00064755n",
+                    "Name":"property_right#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.109685979783535,
+                    "Coherencescore":0.4571428596973419
+                },
+                {
+                    "Synsetid":"bn:16859568n",
+                    "Name":"WIKI:EN:Gulistan_(book)",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.00022114109015092254,
+                    "Coherencescore":0.02857142873108387
+                },
+                {
+                    "Synsetid":"bn:00090024v",
+                    "Name":"justify#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00068799n",
+                    "Name":"safety#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00019220n",
+                    "Name":"consideration#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.023883238434791565,
+                    "Coherencescore":0.2571428716182709
+                },
+                {
+                    "Synsetid":"bn:00067366n",
+                    "Name":"respondent#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00001426n",
+                    "Name":"governance#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.14705882966518402,
+                    "Coherencescore":0.5428571701049805
+                },
+                {
+                    "Synsetid":"bn:00032721n",
+                    "Name":"failure#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00096894a",
+                    "Name":"alternative#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00054018n",
+                    "Name":"step#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00059303n",
+                    "Name":"order#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00092534v",
+                    "Name":"reconstruct#v#4",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00064755n",
+                    "Name":"property_right#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.109685979783535,
+                    "Coherencescore":0.4571428596973419
+                },
+                {
+                    "Synsetid":"bn:00064755n",
+                    "Name":"property_right#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.11676249653100967,
+                    "Coherencescore":0.4571428596973419
+                },
+                {
+                    "Synsetid":"bn:00067807n",
+                    "Name":"right#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.055285271257162094,
+                    "Coherencescore":0.2857142984867096
+                },
+                {
+                    "Synsetid":"bn:00088643v",
+                    "Name":"furnish#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00021239n",
+                    "Name":"nationalization#n#3",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.01592215895652771,
+                    "Coherencescore":0.17142857611179352
+                },
+                {
+                    "Synsetid":"bn:00052050n",
+                    "Name":"loss#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00030917n",
+                    "Name":"enjoyment#n#3",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0035382574424147606,
+                    "Coherencescore":0.11428571492433548
+                },
+                {
+                    "Synsetid":"bn:00090224v",
+                    "Name":"place#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00101566a",
+                    "Name":"disproportionate#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00013942n",
+                    "Name":"load#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0008845643606036901,
+                    "Coherencescore":0.05714285746216774
+                },
+                {
+                    "Synsetid":"bn:00007568n",
+                    "Name":"Azerbaijan#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0035382574424147606,
+                    "Coherencescore":0.11428571492433548
+                },
+                {
+                    "Synsetid":"bn:00037566n",
+                    "Name":"Gc#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0008845643606036901,
+                    "Coherencescore":0.05714285746216774
+                },
+                {
+                    "Synsetid":"bn:00057820n",
+                    "Name":"ordinal_number#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:03881185n",
+                    "Name":"WIKI:EN:European_Convention_on_Human_Rights",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.05594869703054428,
+                    "Coherencescore":0.3142857253551483
+                }
+            ]
+        },
+        {
+            "Id":10,
+            "Date":"16 June",
+            "Sentence":"  The parties having failed to reach an agreement, the applicant submitted his observations on 16 June and 13 December 2016 and the Government on 16 September and 24 October 2016",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00060834n",
+                    "Name":"political_party#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00087966v",
+                    "Name":"fail#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00082790v",
+                    "Name":"reach#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00002086n",
+                    "Name":"agreement#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.004830917809158564,
+                    "Coherencescore":0.07692307978868484
+                },
+                {
+                    "Synsetid":"bn:00094523v",
+                    "Name":"submit#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00058495n",
+                    "Name":"observation#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00048592n",
+                    "Name":"June#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13285024464130402,
+                    "Coherencescore":0.38461539149284363
+                },
+                {
+                    "Synsetid":"bn:00025645n",
+                    "Name":"December#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13285024464130402,
+                    "Coherencescore":0.38461539149284363
+                },
+                {
+                    "Synsetid":"bn:03300735n",
+                    "Name":"WIKI:EN:2016",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.03864734247326851,
+                    "Coherencescore":0.3076923191547394
+                },
+                {
+                    "Synsetid":"bn:00007299n",
+                    "Name":"regime#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00070537n",
+                    "Name":"September#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13285024464130402,
+                    "Coherencescore":0.38461539149284363
+                },
+                {
+                    "Synsetid":"bn:00058593n",
+                    "Name":"October#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13285024464130402,
+                    "Coherencescore":0.38461539149284363
+                },
+                {
+                    "Synsetid":"bn:03300735n",
+                    "Name":"WIKI:EN:2016",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.03864734247326851,
+                    "Coherencescore":0.3076923191547394
+                }
+            ]
+        },
+        {
+            "Id":11,
+            "Date":"13 December 2016",
+            "Sentence":"  The parties having failed to reach an agreement, the applicant submitted his observations on 16 June and 13 December 2016 and the Government on 16 September and 24 October 2016",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00060834n",
+                    "Name":"political_party#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00087966v",
+                    "Name":"fail#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00082790v",
+                    "Name":"reach#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00002086n",
+                    "Name":"agreement#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.004830917809158564,
+                    "Coherencescore":0.07692307978868484
+                },
+                {
+                    "Synsetid":"bn:00094523v",
+                    "Name":"submit#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00058495n",
+                    "Name":"observation#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00048592n",
+                    "Name":"June#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13285024464130402,
+                    "Coherencescore":0.38461539149284363
+                },
+                {
+                    "Synsetid":"bn:00025645n",
+                    "Name":"December#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13285024464130402,
+                    "Coherencescore":0.38461539149284363
+                },
+                {
+                    "Synsetid":"bn:03300735n",
+                    "Name":"WIKI:EN:2016",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.03864734247326851,
+                    "Coherencescore":0.3076923191547394
+                },
+                {
+                    "Synsetid":"bn:00007299n",
+                    "Name":"regime#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00070537n",
+                    "Name":"September#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13285024464130402,
+                    "Coherencescore":0.38461539149284363
+                },
+                {
+                    "Synsetid":"bn:00058593n",
+                    "Name":"October#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13285024464130402,
+                    "Coherencescore":0.38461539149284363
+                },
+                {
+                    "Synsetid":"bn:03300735n",
+                    "Name":"WIKI:EN:2016",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.03864734247326851,
+                    "Coherencescore":0.3076923191547394
+                }
+            ]
+        },
+        {
+            "Id":12,
+            "Date":"16 September",
+            "Sentence":"  The parties having failed to reach an agreement, the applicant submitted his observations on 16 June and 13 December 2016 and the Government on 16 September and 24 October 2016",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00060834n",
+                    "Name":"political_party#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00087966v",
+                    "Name":"fail#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00082790v",
+                    "Name":"reach#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00002086n",
+                    "Name":"agreement#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.004830917809158564,
+                    "Coherencescore":0.07692307978868484
+                },
+                {
+                    "Synsetid":"bn:00094523v",
+                    "Name":"submit#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00058495n",
+                    "Name":"observation#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00048592n",
+                    "Name":"June#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13285024464130402,
+                    "Coherencescore":0.38461539149284363
+                },
+                {
+                    "Synsetid":"bn:00025645n",
+                    "Name":"December#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13285024464130402,
+                    "Coherencescore":0.38461539149284363
+                },
+                {
+                    "Synsetid":"bn:03300735n",
+                    "Name":"WIKI:EN:2016",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.03864734247326851,
+                    "Coherencescore":0.3076923191547394
+                },
+                {
+                    "Synsetid":"bn:00007299n",
+                    "Name":"regime#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00070537n",
+                    "Name":"September#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13285024464130402,
+                    "Coherencescore":0.38461539149284363
+                },
+                {
+                    "Synsetid":"bn:00058593n",
+                    "Name":"October#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13285024464130402,
+                    "Coherencescore":0.38461539149284363
+                },
+                {
+                    "Synsetid":"bn:03300735n",
+                    "Name":"WIKI:EN:2016",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.03864734247326851,
+                    "Coherencescore":0.3076923191547394
+                }
+            ]
+        },
+        {
+            "Id":13,
+            "Date":"24 October 2016",
+            "Sentence":"  The parties having failed to reach an agreement, the applicant submitted his observations on 16 June and 13 December 2016 and the Government on 16 September and 24 October 2016",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00060834n",
+                    "Name":"political_party#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00087966v",
+                    "Name":"fail#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00082790v",
+                    "Name":"reach#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00002086n",
+                    "Name":"agreement#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.004830917809158564,
+                    "Coherencescore":0.07692307978868484
+                },
+                {
+                    "Synsetid":"bn:00094523v",
+                    "Name":"submit#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00058495n",
+                    "Name":"observation#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00048592n",
+                    "Name":"June#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13285024464130402,
+                    "Coherencescore":0.38461539149284363
+                },
+                {
+                    "Synsetid":"bn:00025645n",
+                    "Name":"December#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13285024464130402,
+                    "Coherencescore":0.38461539149284363
+                },
+                {
+                    "Synsetid":"bn:03300735n",
+                    "Name":"WIKI:EN:2016",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.03864734247326851,
+                    "Coherencescore":0.3076923191547394
+                },
+                {
+                    "Synsetid":"bn:00007299n",
+                    "Name":"regime#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00070537n",
+                    "Name":"September#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13285024464130402,
+                    "Coherencescore":0.38461539149284363
+                },
+                {
+                    "Synsetid":"bn:00058593n",
+                    "Name":"October#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13285024464130402,
+                    "Coherencescore":0.38461539149284363
+                },
+                {
+                    "Synsetid":"bn:03300735n",
+                    "Name":"WIKI:EN:2016",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.03864734247326851,
+                    "Coherencescore":0.3076923191547394
+                }
+            ]
+        }
+    ]
+}

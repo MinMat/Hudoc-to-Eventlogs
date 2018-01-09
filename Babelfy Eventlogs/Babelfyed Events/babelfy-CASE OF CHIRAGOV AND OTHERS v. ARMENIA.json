@@ -1,0 +1,1143 @@
+
+{
+    "CaseName":"CASE OF CHIRAGOV AND OTHERS v. ARMENIA",
+    "CaseText":"E\n  1.  The case originated in an application (no. 13216/05) against the Republic of Armenia lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by six Azerbaijani nationals, Mr Elkhan Chiragov, Mr Adishirin Chiragov, Mr Ramiz Gebrayilov, Mr Akif Hasanof, Mr Fekhreddin Pashayev and Mr Qaraca Gabrayilov (“the applicants”), on 6 April 2005. The sixth applicant died in June 2005. The application was pursued on his behalf by his son, Mr Sagatel Gabrayilov.\n  2.  In a judgment delivered on 16 June 2015 (“the principal judgment”), the Court held that there had been continuing violations of Articles 8 and 13 of the Convention and Article 1 of Protocol No. 1 to the Convention and that no separate issue arose under Article 14 of the Convention. In particular, with respect to Article 1 of Protocol No. 1, the Court concluded that, as concerned the period under scrutiny, that is, from 26 April 2002, no aim had been indicated which could justify the denial of access of the applicants to their property and the lack of compensation for this interference. The Court found the Republic of Armenia responsible for the breaches of the applicants’ rights (Chiragov and Others v. Armenia [GC], no. 13216/05, § 201, ECHR 2015).\n  3.  Under Article 41 of the Convention the applicants sought just satisfaction amounting to several million euros (EUR) in respect of damage sustained and of costs and expenses.\n  4.  Since the question of the application of Article 41 of the Convention was not ready for decision, the Court reserved it and invited the Government and the applicants to submit, within twelve months, their written observations on that issue and, in particular, to notify the Court of any agreement they might reach (§ 222 and point 8 of the operative provisions of the principal judgment).\n  5.  Having failed to reach an agreement, the applicants submitted their observations on 16 June and 28 December 2016 and the Government on 16 September and 30 December 2016.\n  6.  The composition of the Grand Chamber was determined according to the provisions of Article 26 §§ 4 and 5 and Rule 24 of the Rules of Court.\n  7.  In response to a request from the Government, the Court decides that the examination of the issue of just satisfaction does not require it to undertake a fact-finding mission.",
+    "Events":[
+        {
+            "Id":1,
+            "Date":"6 April 2005",
+            "Sentence":"  The case originated in an application (no. 13216/05) against the Republic of Armenia lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by six Azerbaijani nationals, Mr Elkhan Chiragov, Mr Adishirin Chiragov, Mr Ramiz Gebrayilov, Mr Akif Hasanof, Mr Fekhreddin Pashayev and Mr Qaraca Gabrayilov (“the applicants”), on 6 April 2005",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00016401n",
+                    "Name":"instance#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00082757v",
+                    "Name":"arise#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.00024679172202013433,
+                    "Coherencescore":0.03448275849223137
+                },
+                {
+                    "Synsetid":"bn:00005092n",
+                    "Name":"application#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00057820n",
+                    "Name":"ordinal_number#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00021207n",
+                    "Name":"democracy#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005738n",
+                    "Name":"Armenia#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.022458044812083244,
+                    "Coherencescore":0.24137930572032928
+                },
+                {
+                    "Synsetid":"bn:00005738n",
+                    "Name":"Armenia#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.01628825254738331,
+                    "Coherencescore":0.2068965584039688
+                },
+                {
+                    "Synsetid":"bn:00084803v",
+                    "Name":"charge#v#6",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.003948667552322149,
+                    "Coherencescore":0.13793103396892548
+                },
+                {
+                    "Synsetid":"bn:00023308n",
+                    "Name":"court#n#8",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.057008884847164154,
+                    "Coherencescore":0.37931033968925476
+                },
+                {
+                    "Synsetid":"bn:00006121n",
+                    "Name":"article#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00022333n",
+                    "Name":"convention#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00064839n",
+                    "Name":"protection#n#3",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0009871668880805373,
+                    "Coherencescore":0.06896551698446274
+                },
+                {
+                    "Synsetid":"bn:00044576n",
+                    "Name":"human#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.2961500585079193,
+                    "Coherencescore":0.8620689511299133
+                },
+                {
+                    "Synsetid":"bn:00045163n",
+                    "Name":"human_right#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.11056268215179443,
+                    "Coherencescore":0.48275861144065857
+                },
+                {
+                    "Synsetid":"bn:00067807n",
+                    "Name":"right#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.02764067053794861,
+                    "Coherencescore":0.27586206793785095
+                },
+                {
+                    "Synsetid":"bn:00034779n",
+                    "Name":"fundamental_frequency#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.00024679172202013433,
+                    "Coherencescore":0.03448275849223137
+                },
+                {
+                    "Synsetid":"bn:01619234n",
+                    "Name":"WIKI:EN:Fundamental_rights",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.012339585460722446,
+                    "Coherencescore":0.17241379618644714
+                },
+                {
+                    "Synsetid":"bn:00036376n",
+                    "Name":"freedom#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00022333n",
+                    "Name":"convention#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00007569n",
+                    "Name":"Azerbaijani#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.032082922756671906,
+                    "Coherencescore":0.3448275923728943
+                },
+                {
+                    "Synsetid":"bn:00056915n",
+                    "Name":"national#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.00296150054782629,
+                    "Coherencescore":0.1034482792019844
+                },
+                {
+                    "Synsetid":"bn:00055346n",
+                    "Name":"Mister#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0009871668880805373,
+                    "Coherencescore":0.06896551698446274
+                },
+                {
+                    "Synsetid":"bn:00055346n",
+                    "Name":"Mister#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0009871668880805373,
+                    "Coherencescore":0.06896551698446274
+                },
+                {
+                    "Synsetid":"bn:00055346n",
+                    "Name":"Mister#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0009871668880805373,
+                    "Coherencescore":0.06896551698446274
+                },
+                {
+                    "Synsetid":"bn:00055346n",
+                    "Name":"Mister#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0009871668880805373,
+                    "Coherencescore":0.06896551698446274
+                },
+                {
+                    "Synsetid":"bn:02239533n",
+                    "Name":"WIKI:EN:Akif",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0004935834440402687,
+                    "Coherencescore":0.03448275849223137
+                },
+                {
+                    "Synsetid":"bn:00055346n",
+                    "Name":"Mister#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0009871668880805373,
+                    "Coherencescore":0.06896551698446274
+                },
+                {
+                    "Synsetid":"bn:00055346n",
+                    "Name":"Mister#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0009871668880805373,
+                    "Coherencescore":0.06896551698446274
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.00296150054782629,
+                    "Coherencescore":0.1034482792019844
+                },
+                {
+                    "Synsetid":"bn:00005169n",
+                    "Name":"April#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00704245n",
+                    "Name":"WIKI:EN:April_2005",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.006169792730361223,
+                    "Coherencescore":0.17241379618644714
+                }
+            ]
+        },
+        {
+            "Id":2,
+            "Date":"June 2005",
+            "Sentence":" The sixth applicant died in June 2005",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00096059a",
+                    "Name":"6th#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00086783v",
+                    "Name":"die#v#2",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00048592n",
+                    "Name":"June#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.5,
+                    "Coherencescore":1.0
+                },
+                {
+                    "Synsetid":"bn:00704251n",
+                    "Name":"WIKI:EN:June_2005",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.5,
+                    "Coherencescore":1.0
+                }
+            ]
+        },
+        {
+            "Id":3,
+            "Date":"16 June 2015",
+            "Sentence":"  In a judgment delivered on 16 June 2015 (“the principal judgment”), the Court held that there had been continuing violations of Articles 8 and 13 of the Convention and Article 1 of Protocol No",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00048493n",
+                    "Name":"judgment#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00086536v",
+                    "Name":"deliver#v#7",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.001422475092113018,
+                    "Coherencescore":0.07692307978868484
+                },
+                {
+                    "Synsetid":"bn:00048592n",
+                    "Name":"June#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.001422475092113018,
+                    "Coherencescore":0.07692307978868484
+                },
+                {
+                    "Synsetid":"bn:03277697n",
+                    "Name":"WIKI:EN:2015",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.001422475092113018,
+                    "Coherencescore":0.07692307978868484
+                },
+                {
+                    "Synsetid":"bn:00099598a",
+                    "Name":"main#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00048493n",
+                    "Name":"judgment#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00023308n",
+                    "Name":"court#n#8",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.2844950258731842,
+                    "Coherencescore":0.6153846383094788
+                },
+                {
+                    "Synsetid":"bn:00089384v",
+                    "Name":"hold#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00083242v",
+                    "Name":"preserve#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.001422475092113018,
+                    "Coherencescore":0.07692307978868484
+                },
+                {
+                    "Synsetid":"bn:00046721n",
+                    "Name":"misdemeanor#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00006121n",
+                    "Name":"article#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00022333n",
+                    "Name":"convention#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00006121n",
+                    "Name":"article#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:02519859n",
+                    "Name":"WIKI:EN:Article_One_of_the_United_States_Constitution",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.001422475092113018,
+                    "Coherencescore":0.07692307978868484
+                },
+                {
+                    "Synsetid":"bn:00000728n",
+                    "Name":"treaty#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.11095305532217026,
+                    "Coherencescore":0.4615384638309479
+                }
+            ]
+        },
+        {
+            "Id":4,
+            "Date":"26 April 2002",
+            "Sentence":" 1, the Court concluded that, as concerned the period under scrutiny, that is, from 26 April 2002, no aim had been indicated which could justify the denial of access of the applicants to their property and the lack of compensation for this interference",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00023308n",
+                    "Name":"court#n#8",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.3333333432674408,
+                    "Coherencescore":0.3571428656578064
+                },
+                {
+                    "Synsetid":"bn:00085528v",
+                    "Name":"conclude#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00083240v",
+                    "Name":"concern#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.029629629105329514,
+                    "Coherencescore":0.1428571492433548
+                },
+                {
+                    "Synsetid":"bn:00061605n",
+                    "Name":"period#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00069907n",
+                    "Name":"scrutiny#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.007407407276332378,
+                    "Coherencescore":0.0714285746216774
+                },
+                {
+                    "Synsetid":"bn:00005169n",
+                    "Name":"April#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.06666667014360428,
+                    "Coherencescore":0.2142857164144516
+                },
+                {
+                    "Synsetid":"bn:02466795n",
+                    "Name":"WIKI:EN:April_2002",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.007407407276332378,
+                    "Coherencescore":0.0714285746216774
+                },
+                {
+                    "Synsetid":"bn:00002178n",
+                    "Name":"intention#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.029629629105329514,
+                    "Coherencescore":0.1428571492433548
+                },
+                {
+                    "Synsetid":"bn:00083436v",
+                    "Name":"point#v#5",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00090024v",
+                    "Name":"justify#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.007407407276332378,
+                    "Coherencescore":0.0714285746216774
+                },
+                {
+                    "Synsetid":"bn:00026229n",
+                    "Name":"denial#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00000661n",
+                    "Name":"admittance#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00009815n",
+                    "Name":"belongings#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00025916n",
+                    "Name":"deficit#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.007407407276332378,
+                    "Coherencescore":0.0714285746216774
+                },
+                {
+                    "Synsetid":"bn:00021329n",
+                    "Name":"compensation#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00047092n",
+                    "Name":"intervention#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                }
+            ]
+        },
+        {
+            "Id":5,
+            "Date":"16 June",
+            "Sentence":"  Having failed to reach an agreement, the applicants submitted their observations on 16 June and 28 December 2016 and the Government on 16 September and 30 December 2016",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00087966v",
+                    "Name":"fail#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00082790v",
+                    "Name":"reach#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00002086n",
+                    "Name":"agreement#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0058823530562222,
+                    "Coherencescore":0.0833333358168602
+                },
+                {
+                    "Synsetid":"bn:00094523v",
+                    "Name":"submit#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00058495n",
+                    "Name":"observation#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00048592n",
+                    "Name":"June#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.1617647111415863,
+                    "Coherencescore":0.4166666567325592
+                },
+                {
+                    "Synsetid":"bn:00025645n",
+                    "Name":"December#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13235294818878174,
+                    "Coherencescore":0.4166666567325592
+                },
+                {
+                    "Synsetid":"bn:03300735n",
+                    "Name":"WIKI:EN:2016",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0470588244497776,
+                    "Coherencescore":0.3333333432674408
+                },
+                {
+                    "Synsetid":"bn:00007299n",
+                    "Name":"regime#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00070537n",
+                    "Name":"September#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.1617647111415863,
+                    "Coherencescore":0.4166666567325592
+                },
+                {
+                    "Synsetid":"bn:00025645n",
+                    "Name":"December#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13235294818878174,
+                    "Coherencescore":0.4166666567325592
+                },
+                {
+                    "Synsetid":"bn:03300735n",
+                    "Name":"WIKI:EN:2016",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0470588244497776,
+                    "Coherencescore":0.3333333432674408
+                }
+            ]
+        },
+        {
+            "Id":6,
+            "Date":"28 December 2016",
+            "Sentence":"  Having failed to reach an agreement, the applicants submitted their observations on 16 June and 28 December 2016 and the Government on 16 September and 30 December 2016",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00087966v",
+                    "Name":"fail#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00082790v",
+                    "Name":"reach#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00002086n",
+                    "Name":"agreement#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0058823530562222,
+                    "Coherencescore":0.0833333358168602
+                },
+                {
+                    "Synsetid":"bn:00094523v",
+                    "Name":"submit#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00058495n",
+                    "Name":"observation#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00048592n",
+                    "Name":"June#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.1617647111415863,
+                    "Coherencescore":0.4166666567325592
+                },
+                {
+                    "Synsetid":"bn:00025645n",
+                    "Name":"December#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13235294818878174,
+                    "Coherencescore":0.4166666567325592
+                },
+                {
+                    "Synsetid":"bn:03300735n",
+                    "Name":"WIKI:EN:2016",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0470588244497776,
+                    "Coherencescore":0.3333333432674408
+                },
+                {
+                    "Synsetid":"bn:00007299n",
+                    "Name":"regime#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00070537n",
+                    "Name":"September#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.1617647111415863,
+                    "Coherencescore":0.4166666567325592
+                },
+                {
+                    "Synsetid":"bn:00025645n",
+                    "Name":"December#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13235294818878174,
+                    "Coherencescore":0.4166666567325592
+                },
+                {
+                    "Synsetid":"bn:03300735n",
+                    "Name":"WIKI:EN:2016",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0470588244497776,
+                    "Coherencescore":0.3333333432674408
+                }
+            ]
+        },
+        {
+            "Id":7,
+            "Date":"16 September",
+            "Sentence":"  Having failed to reach an agreement, the applicants submitted their observations on 16 June and 28 December 2016 and the Government on 16 September and 30 December 2016",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00087966v",
+                    "Name":"fail#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00082790v",
+                    "Name":"reach#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00002086n",
+                    "Name":"agreement#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0058823530562222,
+                    "Coherencescore":0.0833333358168602
+                },
+                {
+                    "Synsetid":"bn:00094523v",
+                    "Name":"submit#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00058495n",
+                    "Name":"observation#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00048592n",
+                    "Name":"June#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.1617647111415863,
+                    "Coherencescore":0.4166666567325592
+                },
+                {
+                    "Synsetid":"bn:00025645n",
+                    "Name":"December#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13235294818878174,
+                    "Coherencescore":0.4166666567325592
+                },
+                {
+                    "Synsetid":"bn:03300735n",
+                    "Name":"WIKI:EN:2016",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0470588244497776,
+                    "Coherencescore":0.3333333432674408
+                },
+                {
+                    "Synsetid":"bn:00007299n",
+                    "Name":"regime#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00070537n",
+                    "Name":"September#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.1617647111415863,
+                    "Coherencescore":0.4166666567325592
+                },
+                {
+                    "Synsetid":"bn:00025645n",
+                    "Name":"December#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13235294818878174,
+                    "Coherencescore":0.4166666567325592
+                },
+                {
+                    "Synsetid":"bn:03300735n",
+                    "Name":"WIKI:EN:2016",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0470588244497776,
+                    "Coherencescore":0.3333333432674408
+                }
+            ]
+        },
+        {
+            "Id":8,
+            "Date":"30 December 2016",
+            "Sentence":"  Having failed to reach an agreement, the applicants submitted their observations on 16 June and 28 December 2016 and the Government on 16 September and 30 December 2016",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00087966v",
+                    "Name":"fail#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00082790v",
+                    "Name":"reach#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00002086n",
+                    "Name":"agreement#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0058823530562222,
+                    "Coherencescore":0.0833333358168602
+                },
+                {
+                    "Synsetid":"bn:00094523v",
+                    "Name":"submit#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00058495n",
+                    "Name":"observation#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00048592n",
+                    "Name":"June#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.1617647111415863,
+                    "Coherencescore":0.4166666567325592
+                },
+                {
+                    "Synsetid":"bn:00025645n",
+                    "Name":"December#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13235294818878174,
+                    "Coherencescore":0.4166666567325592
+                },
+                {
+                    "Synsetid":"bn:03300735n",
+                    "Name":"WIKI:EN:2016",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0470588244497776,
+                    "Coherencescore":0.3333333432674408
+                },
+                {
+                    "Synsetid":"bn:00007299n",
+                    "Name":"regime#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00070537n",
+                    "Name":"September#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.1617647111415863,
+                    "Coherencescore":0.4166666567325592
+                },
+                {
+                    "Synsetid":"bn:00025645n",
+                    "Name":"December#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.13235294818878174,
+                    "Coherencescore":0.4166666567325592
+                },
+                {
+                    "Synsetid":"bn:03300735n",
+                    "Name":"WIKI:EN:2016",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0470588244497776,
+                    "Coherencescore":0.3333333432674408
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2435 @@
+
+{
+    "CaseName":"CASE OF INCIN v. TURKEY",
+    "CaseText":"E\n  1.  The case originated in an application (no. 3534/06) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by fifteen Turkish nationals (“the applicants”) on 27 December 2005.\n  2.  The applicants, whose names, dates of birth and places of residence are set out in the attached table, were represented by Mr Cemal Demir, a lawyer practising in Van. The Turkish Government (“the Government”) were represented by their Agent.\n  3.  The applicants alleged, in particular, that the investigation and the trial concerning the killing of their relative in June 1995 had been in breach of the procedural obligation inherent in Article 2 of the Convention.\n  4.  On 10 November 2015 the complaint under Article 2 of the Convention concerning the effectiveness of the investigation and trial conducted after 22 March 2005 was communicated to the Government and the remainder of the application was declared inadmissible.\nTHE FACTS\nTHE CIRCUMSTANCES OF THE CASE\n  5.  The first applicant, Habibe ?ncin, is the wife of Kerim ?ncin; the second to seventh applicants are his children; the eighth applicant is his mother and the remaining seven applicants are the siblings of Kerim ?ncin.\n  6.  On 22 March 2005 the applicants Halima ?ncin and Haz?m ?ncin, with the assistance of their lawyer, submitted a petition to the Hakkari prosecutor. In their petition the two applicants alleged that after severe military clashes had taken place in the vicinity of their village, in 1994 they and their family members had left Turkey and moved to live with their relatives in Iraq. In June 1995 Kerim ?ncin had gone back to their village in Turkey to collect a sum of money he was owed. While he was having dinner in the village headman’s house, village guards had arrived and taken him to the nearby Geçimli military station. While at the military station Kerim ?ncin had been questioned and subjected to ill-treatment. After having detained him at the station for a week, the soldiers had taken him back to the village, where they had shot him and buried him.\n  7.  In the petition the lawyer representing the applicants stated that the applicant Haz?m ?ncin had recently returned to Turkey from Iraq and wanted to lodge an official complaint concerning the killing of his father. In their petition the two applicants also gave the prosecutor the names of a number of people who they alleged had witnessed the incident in question. They asked the prosecutor to carry out an investigation, to identify and question all the eyewitnesses, to exhume the body of Kerim ?ncin and to find and punish those responsible for the killing.\n  8.  The prosecutor started an investigation into the applicants’ allegations immediately. In the course of the investigation, between 2005 and 2006 the prosecutor questioned the applicants and other members of their family. During the same period the prosecutor also identified, summoned and questioned a large number of witnesses and members of the military who had lived or worked in the region at the time of the events but who, in the years that had elapsed since the killing, had moved to different parts of the country. A number of witnesses told the prosecutor that they had seen Kerim ?ncin being taken away from the village by the soldiers and added that shortly afterwards a large-scale military operation had been conducted in the area and they had heard that Kerim ?ncin had been killed in the course of that operation.\n  9.  Some members of the military forces told the prosecutor during their questioning that they had no recollection of the events while others stated that no such incident had taken place.\n  10.  As a result of the questioning the prosecutor found it established that Kerim ?ncin had indeed been killed and that his body had been buried in Ta?ba?? village cemetery.\n  11.  On 26 May 2006 the prosecutor asked the Hakkari Gendarmerie Command whether there would be any security concerns if he were to visit that cemetery with a view to exhuming a body. The prosecutor was informed in reply that it was not a good idea to do so because the security forces conducted spontaneous operations in the area during the summer months.\n  12.  The prosecutor continued to request security updates from the military until 2009 and sent approximately twenty letters requesting that the military inform him as soon as it was possible to visit the village. In respect of the requests made during winter months the military informed the prosecutor that it would not be safe to go to the area because of adverse weather conditions. In their replies during spring, summer and autumn months, the soldiers informed the prosecutor that it was not a good idea to go to the area in question because a military operation could be conducted there at any time.\n  13.  Finally, on 11 June 2009 the prosecutor informed the military of his intention to go to the cemetery on 18 June 2009 and instructed the military to take the necessary security measures for his planned visit.\n  14.  On 18 June 2009 the prosecutor went to the cemetery in question and a body was exhumed from a grave in his presence. It was subsequently established by DNA analysis that it was the body of Kerim ?ncin. Forensic examinations showed that there were ten holes in the clothes in which Kerim ?ncin had been buried and that the cause of death had been numerous firearms injuries inflicted on his body and skull.\n  15.  On 25 March 2010 the prosecutor took a decision not to prosecute ten of the suspects who had been working as members of the military at the time of the events, for lack of evidence. The following day the prosecutor prepared an indictment and charged Y.K. ? who had been the commander of the Geçimli military station where Kerim ?ncin had allegedly been taken at the time of the events ? with the offence of murder.\n  16.  The trial before the Hakkari Assize Court started on 12 April 2010. The two applicants who had introduced the complaint with the prosecutor on 22 March 2005 (see paragraph 6 above), namely Halima ?ncin and Haz?m ?ncin, joined the criminal proceedings as interveners. In the course of the trial a total of twenty hearings were held. On 27 November 2014 the Hakkari Assize Court acquitted Y.K. for lack of evidence. The same day the applicants appealed against the judgment acquitting Y.K. and the proceedings before the Court of Cassation are still pending.\n  17.  At the request of the Court, the Government stated that, in accordance with the applicable statute of limitations, the criminal proceedings against Y.K. would not become time-barred until 2025.",
+    "Events":[
+        {
+            "Id":1,
+            "Date":"27 December 2005",
+            "Sentence":"  The case originated in an application (no. 3534/06) against the Republic of Turkey lodged with the Court under Article 34 of the Convention for the Protection of Human Rights and Fundamental Freedoms (“the Convention”) by fifteen Turkish nationals (“the applicants”) on 27 December 2005",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00016401n",
+                    "Name":"instance#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00082757v",
+                    "Name":"arise#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.00020271640096325427,
+                    "Coherencescore":0.04545454680919647
+                },
+                {
+                    "Synsetid":"bn:00005092n",
+                    "Name":"application#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00057820n",
+                    "Name":"ordinal_number#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00021207n",
+                    "Name":"democracy#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00067236n",
+                    "Name":"Turkey#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.09993918240070343,
+                    "Coherencescore":0.7727272510528564
+                },
+                {
+                    "Synsetid":"bn:00067236n",
+                    "Name":"Turkey#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.08108656108379364,
+                    "Coherencescore":0.7272727489471436
+                },
+                {
+                    "Synsetid":"bn:00084803v",
+                    "Name":"charge#v#6",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0032434624154120684,
+                    "Coherencescore":0.1818181872367859
+                },
+                {
+                    "Synsetid":"bn:00023308n",
+                    "Name":"court#n#8",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.06811270862817764,
+                    "Coherencescore":0.6363636255264282
+                },
+                {
+                    "Synsetid":"bn:00006121n",
+                    "Name":"article#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00022333n",
+                    "Name":"convention#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00064837n",
+                    "Name":"protection#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00044576n",
+                    "Name":"human#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.1569024920463562,
+                    "Coherencescore":0.8181818127632141
+                },
+                {
+                    "Synsetid":"bn:00045163n",
+                    "Name":"human_right#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.12061625719070435,
+                    "Coherencescore":0.7727272510528564
+                },
+                {
+                    "Synsetid":"bn:00067807n",
+                    "Name":"right#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.022704236209392548,
+                    "Coherencescore":0.3636363744735718
+                },
+                {
+                    "Synsetid":"bn:00034779n",
+                    "Name":"fundamental_frequency#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.00020271640096325427,
+                    "Coherencescore":0.04545454680919647
+                },
+                {
+                    "Synsetid":"bn:01619234n",
+                    "Name":"WIKI:EN:Fundamental_rights",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.01702817715704441,
+                    "Coherencescore":0.3181818127632141
+                },
+                {
+                    "Synsetid":"bn:00036376n",
+                    "Name":"freedom#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00022333n",
+                    "Name":"convention#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00078646n",
+                    "Name":"Turkish#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.01702817715704441,
+                    "Coherencescore":0.27272728085517883
+                },
+                {
+                    "Synsetid":"bn:00056915n",
+                    "Name":"national#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0060814921744167805,
+                    "Coherencescore":0.22727273404598236
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.002432596869766712,
+                    "Coherencescore":0.13636364042758942
+                },
+                {
+                    "Synsetid":"bn:00025645n",
+                    "Name":"December#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0050679100677371025,
+                    "Coherencescore":0.22727273404598236
+                },
+                {
+                    "Synsetid":"bn:02405956n",
+                    "Name":"WIKI:EN:December_2005",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0072977906093001366,
+                    "Coherencescore":0.27272728085517883
+                }
+            ]
+        },
+        {
+            "Id":2,
+            "Date":"June 1995",
+            "Sentence":"  The applicants alleged, in particular, that the investigation and the trial concerning the killing of their relative in June 1995 had been in breach of the procedural obligation inherent in Article 2 of the Convention",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00082527v",
+                    "Name":"allege#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.004807692486792803,
+                    "Coherencescore":0.1111111119389534
+                },
+                {
+                    "Synsetid":"bn:00047355n",
+                    "Name":"probe#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00016403n",
+                    "Name":"case#n#3",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.25961539149284363,
+                    "Coherencescore":0.6666666865348816
+                },
+                {
+                    "Synsetid":"bn:00083240v",
+                    "Name":"concern#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.07692307978868484,
+                    "Coherencescore":0.4444444477558136
+                },
+                {
+                    "Synsetid":"bn:00090098v",
+                    "Name":"kill#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00100122a",
+                    "Name":"comparative#a#2",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00048592n",
+                    "Name":"June#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:02823572n",
+                    "Name":"WIKI:EN:1995",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.3125,
+                    "Coherencescore":0.5555555820465088
+                },
+                {
+                    "Synsetid":"bn:00012862n",
+                    "Name":"breach#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00109049a",
+                    "Name":"procedural#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.01923076994717121,
+                    "Coherencescore":0.2222222238779068
+                },
+                {
+                    "Synsetid":"bn:00029239n",
+                    "Name":"duty#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.09615384787321091,
+                    "Coherencescore":0.4444444477558136
+                },
+                {
+                    "Synsetid":"bn:00098994a",
+                    "Name":"inbuilt#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00006121n",
+                    "Name":"article#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00022333n",
+                    "Name":"convention#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                }
+            ]
+        },
+        {
+            "Id":3,
+            "Date":"10 November 2015",
+            "Sentence":"  On 10 November 2015 the complaint under Article 2 of the Convention concerning the effectiveness of the investigation and trial conducted after 22 March 2005 was communicated to the Government and the remainder of the application was declared inadmissible",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00058192n",
+                    "Name":"November#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.016806723549962044,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:03277697n",
+                    "Name":"WIKI:EN:2015",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.011204482056200504,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:00002171n",
+                    "Name":"ailment#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00006121n",
+                    "Name":"article#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00022333n",
+                    "Name":"convention#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00083240v",
+                    "Name":"concern#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.1260504275560379,
+                    "Coherencescore":0.3125
+                },
+                {
+                    "Synsetid":"bn:00029876n",
+                    "Name":"effectiveness#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.005602241028100252,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00047354n",
+                    "Name":"investigation#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.011204482056200504,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:00068548n",
+                    "Name":"run#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00084556v",
+                    "Name":"conduct#v#5",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.008403361774981022,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00053318n",
+                    "Name":"March#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.10084033757448196,
+                    "Coherencescore":0.25
+                },
+                {
+                    "Synsetid":"bn:00783572n",
+                    "Name":"WIKI:EN:March_2005",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.002801120514050126,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00085435v",
+                    "Name":"communicate#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00001426n",
+                    "Name":"governance#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.16806723177433014,
+                    "Coherencescore":0.375
+                },
+                {
+                    "Synsetid":"bn:00008047n",
+                    "Name":"balance#n#5",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:15895597n",
+                    "Name":"WIKIDATA:EN:motion",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.03361344709992409,
+                    "Coherencescore":0.1875
+                },
+                {
+                    "Synsetid":"bn:00086380v",
+                    "Name":"declare#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00104769a",
+                    "Name":"inadmissible#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                }
+            ]
+        },
+        {
+            "Id":4,
+            "Date":"22 March 2005",
+            "Sentence":"  On 10 November 2015 the complaint under Article 2 of the Convention concerning the effectiveness of the investigation and trial conducted after 22 March 2005 was communicated to the Government and the remainder of the application was declared inadmissible",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00058192n",
+                    "Name":"November#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.016806723549962044,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:03277697n",
+                    "Name":"WIKI:EN:2015",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.011204482056200504,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:00002171n",
+                    "Name":"ailment#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00006121n",
+                    "Name":"article#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00022333n",
+                    "Name":"convention#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00083240v",
+                    "Name":"concern#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.1260504275560379,
+                    "Coherencescore":0.3125
+                },
+                {
+                    "Synsetid":"bn:00029876n",
+                    "Name":"effectiveness#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.005602241028100252,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00047354n",
+                    "Name":"investigation#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.011204482056200504,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:00068548n",
+                    "Name":"run#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00084556v",
+                    "Name":"conduct#v#5",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.008403361774981022,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00053318n",
+                    "Name":"March#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.10084033757448196,
+                    "Coherencescore":0.25
+                },
+                {
+                    "Synsetid":"bn:00783572n",
+                    "Name":"WIKI:EN:March_2005",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.002801120514050126,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00085435v",
+                    "Name":"communicate#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00001426n",
+                    "Name":"governance#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.16806723177433014,
+                    "Coherencescore":0.375
+                },
+                {
+                    "Synsetid":"bn:00008047n",
+                    "Name":"balance#n#5",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:15895597n",
+                    "Name":"WIKIDATA:EN:motion",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.03361344709992409,
+                    "Coherencescore":0.1875
+                },
+                {
+                    "Synsetid":"bn:00086380v",
+                    "Name":"declare#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00104769a",
+                    "Name":"inadmissible#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                }
+            ]
+        },
+        {
+            "Id":5,
+            "Date":"22 March 2005",
+            "Sentence":"  On 22 March 2005 the applicants Halima ?ncin and Haz?m ?ncin, with the assistance of their lawyer, submitted a petition to the Hakkari prosecutor",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00053318n",
+                    "Name":"March#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.12121212482452393,
+                    "Coherencescore":0.3333333432674408
+                },
+                {
+                    "Synsetid":"bn:00783572n",
+                    "Name":"WIKI:EN:March_2005",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.03030303120613098,
+                    "Coherencescore":0.1666666716337204
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.1818181872367859,
+                    "Coherencescore":0.3333333432674408
+                },
+                {
+                    "Synsetid":"bn:03235261n",
+                    "Name":"WIKI:EN:Halima_(princess)",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00002155n",
+                    "Name":"assistance#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00007051n",
+                    "Name":"lawyer#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.1818181872367859,
+                    "Coherencescore":0.3333333432674408
+                },
+                {
+                    "Synsetid":"bn:00092212v",
+                    "Name":"put_in#v#5",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.1818181872367859,
+                    "Coherencescore":0.3333333432674408
+                },
+                {
+                    "Synsetid":"bn:00061826n",
+                    "Name":"petition#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.12121212482452393,
+                    "Coherencescore":0.3333333432674408
+                },
+                {
+                    "Synsetid":"bn:00064806n",
+                    "Name":"prosecutor#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.09090909361839294,
+                    "Coherencescore":0.1666666716337204
+                }
+            ]
+        },
+        {
+            "Id":6,
+            "Date":"1994",
+            "Sentence":" In their petition the two applicants alleged that after severe military clashes had taken place in the vicinity of their village, in 1994 they and their family members had left Turkey and moved to live with their relatives in Iraq",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00061826n",
+                    "Name":"petition#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0010427528759464622,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00082527v",
+                    "Name":"allege#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0010427528759464622,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00110471a",
+                    "Name":"terrible#a#3",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00106724a",
+                    "Name":"military#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00019432n",
+                    "Name":"clangour#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0010427528759464622,
+                    "Coherencescore":0.0625
+                },
+                {
+                    "Synsetid":"bn:00085337v",
+                    "Name":"come_about#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.004171011503785849,
+                    "Coherencescore":0.125
+                },
+                {
+                    "Synsetid":"bn:00062699n",
+                    "Name":"place#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00051758n",
+                    "Name":"neighbourhood#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.06777893751859665,
+                    "Coherencescore":0.3125
+                },
+                {
+                    "Synsetid":"bn:00070724n",
+                    "Name":"settlement#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00032892n",
+                    "Name":"household#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00032893n",
+                    "Name":"family#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.16892597079277039,
+                    "Coherencescore":0.5625
+                },
+                {
+                    "Synsetid":"bn:00034004n",
+                    "Name":"member#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00088939v",
+                    "Name":"leave#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00067236n",
+                    "Name":"Turkey#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.16684046387672424,
+                    "Coherencescore":0.5
+                },
+                {
+                    "Synsetid":"bn:00087441v",
+                    "Name":"live#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.02606882154941559,
+                    "Coherencescore":0.3125
+                },
+                {
+                    "Synsetid":"bn:00082203v",
+                    "Name":"accept#v#7",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00066996n",
+                    "Name":"relative#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.004171011503785849,
+                    "Coherencescore":0.125
+                }
+            ]
+        },
+        {
+            "Id":7,
+            "Date":"June 1995",
+            "Sentence":" In June 1995 Kerim ?ncin had gone back to their village in Turkey to collect a sum of money he was owed",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00048592n",
+                    "Name":"June#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:02823572n",
+                    "Name":"WIKI:EN:1995",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.1827242523431778,
+                    "Coherencescore":0.4545454680919647
+                },
+                {
+                    "Synsetid":"bn:01382588n",
+                    "Name":"WIKI:EN:Kerim",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.029900332912802696,
+                    "Coherencescore":0.27272728085517883
+                },
+                {
+                    "Synsetid":"bn:00088941v",
+                    "Name":"go_back#v#3",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.003322259057313204,
+                    "Coherencescore":0.09090909361839294
+                },
+                {
+                    "Synsetid":"bn:00070724n",
+                    "Name":"settlement#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00067236n",
+                    "Name":"Turkey#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.1860465109348297,
+                    "Coherencescore":0.6363636255264282
+                },
+                {
+                    "Synsetid":"bn:00082246v",
+                    "Name":"amass#v#2",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00003601n",
+                    "Name":"amount#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00001296n",
+                    "Name":"addition#n#6",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.019933555275201797,
+                    "Coherencescore":0.1818181872367859
+                },
+                {
+                    "Synsetid":"bn:00003601n",
+                    "Name":"amount#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.013289036229252815,
+                    "Coherencescore":0.1818181872367859
+                },
+                {
+                    "Synsetid":"bn:00055644n",
+                    "Name":"money#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.3887043297290802,
+                    "Coherencescore":0.8181818127632141
+                },
+                {
+                    "Synsetid":"bn:00091360v",
+                    "Name":"owe#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                }
+            ]
+        },
+        {
+            "Id":8,
+            "Date":"2005",
+            "Sentence":" In the course of the investigation, between 2005 and 2006 the prosecutor questioned the applicants and other members of their family",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00019479n",
+                    "Name":"class#n#4",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00047354n",
+                    "Name":"investigation#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0555555559694767,
+                    "Coherencescore":0.25
+                },
+                {
+                    "Synsetid":"bn:00064806n",
+                    "Name":"prosecutor#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0555555559694767,
+                    "Coherencescore":0.25
+                },
+                {
+                    "Synsetid":"bn:00084423v",
+                    "Name":"call_into_question#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00034004n",
+                    "Name":"member#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00032893n",
+                    "Name":"family#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.3333333432674408,
+                    "Coherencescore":0.25
+                }
+            ]
+        },
+        {
+            "Id":9,
+            "Date":"2006",
+            "Sentence":" In the course of the investigation, between 2005 and 2006 the prosecutor questioned the applicants and other members of their family",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00019479n",
+                    "Name":"class#n#4",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00047354n",
+                    "Name":"investigation#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0555555559694767,
+                    "Coherencescore":0.25
+                },
+                {
+                    "Synsetid":"bn:00064806n",
+                    "Name":"prosecutor#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0555555559694767,
+                    "Coherencescore":0.25
+                },
+                {
+                    "Synsetid":"bn:00084423v",
+                    "Name":"call_into_question#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00034004n",
+                    "Name":"member#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00032893n",
+                    "Name":"family#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.3333333432674408,
+                    "Coherencescore":0.25
+                }
+            ]
+        },
+        {
+            "Id":10,
+            "Date":"26 May 2006",
+            "Sentence":"  On 26 May 2006 the prosecutor asked the Hakkari Gendarmerie Command whether there would be any security concerns if he were to visit that cemetery with a view to exhuming a body",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00064806n",
+                    "Name":"prosecutor#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.037974681705236435,
+                    "Coherencescore":0.20000000298023224
+                },
+                {
+                    "Synsetid":"bn:00082817v",
+                    "Name":"inquire#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00037632n",
+                    "Name":"gendarmerie#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00010260n",
+                    "Name":"command#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00070219n",
+                    "Name":"security#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00021556n",
+                    "Name":"concern#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00084076v",
+                    "Name":"visit#v#5",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.07594936341047287,
+                    "Coherencescore":0.30000001192092896
+                },
+                {
+                    "Synsetid":"bn:00013984n",
+                    "Name":"cemetery#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.07594936341047287,
+                    "Coherencescore":0.20000000298023224
+                },
+                {
+                    "Synsetid":"bn:00061746n",
+                    "Name":"perspective#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00086976v",
+                    "Name":"disinter#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.09493670612573624,
+                    "Coherencescore":0.30000001192092896
+                },
+                {
+                    "Synsetid":"bn:00011744n",
+                    "Name":"body#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                }
+            ]
+        },
+        {
+            "Id":11,
+            "Date":"2009",
+            "Sentence":"  The prosecutor continued to request security updates from the military until 2009 and sent approximately twenty letters requesting that the military inform him as soon as it was possible to visit the village",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00064806n",
+                    "Name":"prosecutor#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.008333333767950535,
+                    "Coherencescore":0.0833333358168602
+                },
+                {
+                    "Synsetid":"bn:00085714v",
+                    "Name":"go_on#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00061826n",
+                    "Name":"petition#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00070219n",
+                    "Name":"security#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00060970n",
+                    "Name":"patch#n#5",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.02500000037252903,
+                    "Coherencescore":0.0833333358168602
+                },
+                {
+                    "Synsetid":"bn:00079238n",
+                    "Name":"update#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00106724a",
+                    "Name":"military#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00086868v",
+                    "Name":"direct#v#6",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00114073r",
+                    "Name":"about#r#1",
+                    "Part of speech":"ADVERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00050802n",
+                    "Name":"letter#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.05000000074505806,
+                    "Coherencescore":0.1666666716337204
+                },
+                {
+                    "Synsetid":"bn:00083437v",
+                    "Name":"request#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.15000000596046448,
+                    "Coherencescore":0.25
+                },
+                {
+                    "Synsetid":"bn:00106724a",
+                    "Name":"military#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00089724v",
+                    "Name":"inform#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00114513r",
+                    "Name":"presently#r#1",
+                    "Part of speech":"ADVERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00108830a",
+                    "Name":"potential#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.008333333767950535,
+                    "Coherencescore":0.0833333358168602
+                },
+                {
+                    "Synsetid":"bn:00093433v",
+                    "Name":"visit#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00070724n",
+                    "Name":"settlement#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                }
+            ]
+        },
+        {
+            "Id":12,
+            "Date":"11 June 2009",
+            "Sentence":"  Finally, on 11 June 2009 the prosecutor informed the military of his intention to go to the cemetery on 18 June 2009 and instructed the military to take the necessary security measures for his planned visit",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00048592n",
+                    "Name":"June#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.17766498029232025,
+                    "Coherencescore":0.3333333432674408
+                },
+                {
+                    "Synsetid":"bn:00649631n",
+                    "Name":"WIKI:EN:June_2009",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.04060913622379303,
+                    "Coherencescore":0.13333334028720856
+                },
+                {
+                    "Synsetid":"bn:00064806n",
+                    "Name":"prosecutor#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.005076142027974129,
+                    "Coherencescore":0.06666667014360428
+                },
+                {
+                    "Synsetid":"bn:00089724v",
+                    "Name":"inform#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005732n",
+                    "Name":"military#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.16243654489517212,
+                    "Coherencescore":0.2666666805744171
+                },
+                {
+                    "Synsetid":"bn:00002178n",
+                    "Name":"intention#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00082907v",
+                    "Name":"attend#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00013984n",
+                    "Name":"cemetery#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00048592n",
+                    "Name":"June#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.17766498029232025,
+                    "Coherencescore":0.3333333432674408
+                },
+                {
+                    "Synsetid":"bn:00649631n",
+                    "Name":"WIKI:EN:June_2009",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.04060913622379303,
+                    "Coherencescore":0.13333334028720856
+                },
+                {
+                    "Synsetid":"bn:00089791v",
+                    "Name":"teach#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00106724a",
+                    "Name":"military#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00105024a",
+                    "Name":"inevitable#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.005076142027974129,
+                    "Coherencescore":0.06666667014360428
+                },
+                {
+                    "Synsetid":"bn:00070219n",
+                    "Name":"security#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00070225n",
+                    "Name":"security#n#9",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.030456852167844772,
+                    "Coherencescore":0.13333334028720856
+                },
+                {
+                    "Synsetid":"bn:00054018n",
+                    "Name":"step#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.04060913622379303,
+                    "Coherencescore":0.13333334028720856
+                },
+                {
+                    "Synsetid":"bn:00108660a",
+                    "Name":"planned#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.030456852167844772,
+                    "Coherencescore":0.13333334028720856
+                },
+                {
+                    "Synsetid":"bn:00080113n",
+                    "Name":"visit#n#3",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.005076142027974129,
+                    "Coherencescore":0.06666667014360428
+                }
+            ]
+        },
+        {
+            "Id":13,
+            "Date":"18 June 2009",
+            "Sentence":"  Finally, on 11 June 2009 the prosecutor informed the military of his intention to go to the cemetery on 18 June 2009 and instructed the military to take the necessary security measures for his planned visit",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00048592n",
+                    "Name":"June#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.17766498029232025,
+                    "Coherencescore":0.3333333432674408
+                },
+                {
+                    "Synsetid":"bn:00649631n",
+                    "Name":"WIKI:EN:June_2009",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.04060913622379303,
+                    "Coherencescore":0.13333334028720856
+                },
+                {
+                    "Synsetid":"bn:00064806n",
+                    "Name":"prosecutor#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.005076142027974129,
+                    "Coherencescore":0.06666667014360428
+                },
+                {
+                    "Synsetid":"bn:00089724v",
+                    "Name":"inform#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005732n",
+                    "Name":"military#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.16243654489517212,
+                    "Coherencescore":0.2666666805744171
+                },
+                {
+                    "Synsetid":"bn:00002178n",
+                    "Name":"intention#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00082907v",
+                    "Name":"attend#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00013984n",
+                    "Name":"cemetery#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00048592n",
+                    "Name":"June#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.17766498029232025,
+                    "Coherencescore":0.3333333432674408
+                },
+                {
+                    "Synsetid":"bn:00649631n",
+                    "Name":"WIKI:EN:June_2009",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.04060913622379303,
+                    "Coherencescore":0.13333334028720856
+                },
+                {
+                    "Synsetid":"bn:00089791v",
+                    "Name":"teach#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00106724a",
+                    "Name":"military#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00105024a",
+                    "Name":"inevitable#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.005076142027974129,
+                    "Coherencescore":0.06666667014360428
+                },
+                {
+                    "Synsetid":"bn:00070219n",
+                    "Name":"security#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00070225n",
+                    "Name":"security#n#9",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.030456852167844772,
+                    "Coherencescore":0.13333334028720856
+                },
+                {
+                    "Synsetid":"bn:00054018n",
+                    "Name":"step#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.04060913622379303,
+                    "Coherencescore":0.13333334028720856
+                },
+                {
+                    "Synsetid":"bn:00108660a",
+                    "Name":"planned#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.030456852167844772,
+                    "Coherencescore":0.13333334028720856
+                },
+                {
+                    "Synsetid":"bn:00080113n",
+                    "Name":"visit#n#3",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.005076142027974129,
+                    "Coherencescore":0.06666667014360428
+                }
+            ]
+        },
+        {
+            "Id":14,
+            "Date":"18 June 2009",
+            "Sentence":"  On 18 June 2009 the prosecutor went to the cemetery in question and a body was exhumed from a grave in his presence",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00048592n",
+                    "Name":"June#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.07058823853731155,
+                    "Coherencescore":0.2857142984867096
+                },
+                {
+                    "Synsetid":"bn:00649631n",
+                    "Name":"WIKI:EN:June_2009",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0235294122248888,
+                    "Coherencescore":0.1428571492433548
+                },
+                {
+                    "Synsetid":"bn:00064806n",
+                    "Name":"prosecutor#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00013984n",
+                    "Name":"cemetery#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.24705882370471954,
+                    "Coherencescore":0.4285714328289032
+                },
+                {
+                    "Synsetid":"bn:00065674n",
+                    "Name":"question#n#6",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0117647061124444,
+                    "Coherencescore":0.1428571492433548
+                },
+                {
+                    "Synsetid":"bn:00011744n",
+                    "Name":"body#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00086976v",
+                    "Name":"disinter#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.1411764770746231,
+                    "Coherencescore":0.4285714328289032
+                },
+                {
+                    "Synsetid":"bn:00041468n",
+                    "Name":"grave#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.21176470816135406,
+                    "Coherencescore":0.4285714328289032
+                },
+                {
+                    "Synsetid":"bn:00064201n",
+                    "Name":"presence#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                }
+            ]
+        },
+        {
+            "Id":15,
+            "Date":"25 March 2010",
+            "Sentence":"  On 25 March 2010 the prosecutor took a decision not to prosecute ten of the suspects who had been working as members of the military at the time of the events, for lack of evidence",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00053318n",
+                    "Name":"March#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.05494505539536476,
+                    "Coherencescore":0.27272728085517883
+                },
+                {
+                    "Synsetid":"bn:00649660n",
+                    "Name":"WIKI:EN:March_2010",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0036630036775022745,
+                    "Coherencescore":0.09090909361839294
+                },
+                {
+                    "Synsetid":"bn:00064806n",
+                    "Name":"prosecutor#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.09890110045671463,
+                    "Coherencescore":0.27272728085517883
+                },
+                {
+                    "Synsetid":"bn:00021590n",
+                    "Name":"determination#n#5",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00092095v",
+                    "Name":"prosecute#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00025884n",
+                    "Name":"suspect#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.1318681389093399,
+                    "Coherencescore":0.3636363744735718
+                },
+                {
+                    "Synsetid":"bn:00095812v",
+                    "Name":"work#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00034004n",
+                    "Name":"member#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00106724a",
+                    "Name":"military#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00077270n",
+                    "Name":"time#n#5",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.2014652043581009,
+                    "Coherencescore":0.4545454680919647
+                },
+                {
+                    "Synsetid":"bn:00032021n",
+                    "Name":"event#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00025913n",
+                    "Name":"lack#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00032045n",
+                    "Name":"evidence#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                }
+            ]
+        },
+        {
+            "Id":16,
+            "Date":"12 April 2010",
+            "Sentence":"  The trial before the Hakkari Assize Court started on 12 April 2010",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00078198n",
+                    "Name":"trial#n#4",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00006528n",
+                    "Name":"assize#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.1318681389093399,
+                    "Coherencescore":0.6000000238418579
+                },
+                {
+                    "Synsetid":"bn:00006529n",
+                    "Name":"assizes#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.08791209012269974,
+                    "Coherencescore":0.4000000059604645
+                },
+                {
+                    "Synsetid":"bn:00023302n",
+                    "Name":"court#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00083342v",
+                    "Name":"begin#v#3",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00005169n",
+                    "Name":"April#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.010989011265337467,
+                    "Coherencescore":0.20000000298023224
+                },
+                {
+                    "Synsetid":"bn:00649659n",
+                    "Name":"WIKI:EN:April_2010",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.010989011265337467,
+                    "Coherencescore":0.20000000298023224
+                }
+            ]
+        },
+        {
+            "Id":17,
+            "Date":"22 March 2005",
+            "Sentence":" The two applicants who had introduced the complaint with the prosecutor on 22 March 2005 (see paragraph 6 above), namely Halima ?ncin and Haz?m ?ncin, joined the criminal proceedings as interveners",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00005091n",
+                    "Name":"applicant#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00087681v",
+                    "Name":"enter#v#8",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.017094017937779427,
+                    "Coherencescore":0.1111111119389534
+                },
+                {
+                    "Synsetid":"bn:00002171n",
+                    "Name":"ailment#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00064806n",
+                    "Name":"prosecutor#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.29914531111717224,
+                    "Coherencescore":0.5555555820465088
+                },
+                {
+                    "Synsetid":"bn:00053318n",
+                    "Name":"March#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.008547008968889713,
+                    "Coherencescore":0.1111111119389534
+                },
+                {
+                    "Synsetid":"bn:00783572n",
+                    "Name":"WIKI:EN:March_2005",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.008547008968889713,
+                    "Coherencescore":0.1111111119389534
+                },
+                {
+                    "Synsetid":"bn:00093430v",
+                    "Name":"see#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00060556n",
+                    "Name":"paragraph#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:03235261n",
+                    "Name":"WIKI:EN:Halima_(princess)",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00088013v",
+                    "Name":"join#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00100650a",
+                    "Name":"felonious#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.008547008968889713,
+                    "Coherencescore":0.1111111119389534
+                },
+                {
+                    "Synsetid":"bn:03083887n",
+                    "Name":"WIKI:EN:criminal_procedure",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.3076923191547394,
+                    "Coherencescore":0.4444444477558136
+                },
+                {
+                    "Synsetid":"bn:00050563n",
+                    "Name":"proceedings#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.12820513546466827,
+                    "Coherencescore":0.3333333432674408
+                },
+                {
+                    "Synsetid":"bn:00047234n",
+                    "Name":"intervention#n#4",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.10256410390138626,
+                    "Coherencescore":0.3333333432674408
+                }
+            ]
+        },
+        {
+            "Id":18,
+            "Date":"27 November 2014",
+            "Sentence":" On 27 November 2014 the Hakkari Assize Court acquitted Y.K. for lack of evidence",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00058192n",
+                    "Name":"November#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.06666667014360428,
+                    "Coherencescore":0.2857142984867096
+                },
+                {
+                    "Synsetid":"bn:15725204n",
+                    "Name":"WIKI:EN:November_2014",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.01666666753590107,
+                    "Coherencescore":0.1428571492433548
+                },
+                {
+                    "Synsetid":"bn:00006527n",
+                    "Name":"assize#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00006529n",
+                    "Name":"assizes#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.13333334028720856,
+                    "Coherencescore":0.2857142984867096
+                },
+                {
+                    "Synsetid":"bn:00023308n",
+                    "Name":"court#n#8",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.4000000059604645,
+                    "Coherencescore":0.5714285969734192
+                },
+                {
+                    "Synsetid":"bn:00082283v",
+                    "Name":"acquit#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.01666666753590107,
+                    "Coherencescore":0.1428571492433548
+                },
+                {
+                    "Synsetid":"bn:15977099n",
+                    "Name":"WIKI:EN:Lack_(Porno_Graffitti_song)",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":true,
+                    "Relevancescore":0.01666666753590107,
+                    "Coherencescore":0.1428571492433548
+                },
+                {
+                    "Synsetid":"bn:00032047n",
+                    "Name":"evidence#n#3",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.05000000074505806,
+                    "Coherencescore":0.1428571492433548
+                }
+            ]
+        },
+        {
+            "Id":19,
+            "Date":"2025",
+            "Sentence":"  At the request of the Court, the Government stated that, in accordance with the applicable statute of limitations, the criminal proceedings against Y.K. would not become time-barred until 2025",
+            "Concepts":[
+                {
+                    "Synsetid":"bn:00061826n",
+                    "Name":"petition#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.020408162847161293,
+                    "Coherencescore":0.375
+                },
+                {
+                    "Synsetid":"bn:00023308n",
+                    "Name":"court#n#8",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.2222222238779068,
+                    "Coherencescore":0.875
+                },
+                {
+                    "Synsetid":"bn:00001426n",
+                    "Name":"governance#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":true,
+                    "Named entity":false,
+                    "Relevancescore":0.190476194024086,
+                    "Coherencescore":0.875
+                },
+                {
+                    "Synsetid":"bn:00093287v",
+                    "Name":"say#v#1",
+                    "Part of speech":"VERB",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00000727n",
+                    "Name":"accord#n#2",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00097372a",
+                    "Name":"applicable#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0,
+                    "Coherencescore":0.0
+                },
+                {
+                    "Synsetid":"bn:00050588n",
+                    "Name":"statute#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.190476194024086,
+                    "Coherencescore":0.875
+                },
+                {
+                    "Synsetid":"bn:00074071n",
+                    "Name":"statute_of_limitations#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.095238097012043,
+                    "Coherencescore":0.75
+                },
+                {
+                    "Synsetid":"bn:00051253n",
+                    "Name":"limitation#n#4",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.00907029490917921,
+                    "Coherencescore":0.25
+                },
+                {
+                    "Synsetid":"bn:00100650a",
+                    "Name":"felonious#a#1",
+                    "Part of speech":"ADJECTIVE",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.03628117963671684,
+                    "Coherencescore":0.5
+                },
+                {
+                    "Synsetid":"bn:03083887n",
+                    "Name":"WIKI:EN:criminal_procedure",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.09070295095443726,
+                    "Coherencescore":0.625
+                },
+                {
+                    "Synsetid":"bn:00050563n",
+                    "Name":"proceedings#n#1",
+                    "Part of speech":"NOUN",
+                    "Keyconcept":false,
+                    "Named entity":false,
+                    "Relevancescore":0.0793650820851326,
+                    "Coherencescore":0.625
+                }
+            ]
+        }
+    ]
+}
